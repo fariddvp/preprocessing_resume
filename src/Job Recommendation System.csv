@@ -1,0 +1,1115 @@
+user ID,Name,Age,Gender,Academic Background,Field of Study,Skills,Industry Interest,Job Type Interest,Location Interest,Salary Expectation (in USD),desired company
+986206,John Smith,28,Male+D43B100D2:D55,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Technology,Full-time,New York,65000,apple
+769632,Jane Doe,42,Female,Master's degree,Business,"Finance, Accounting, Microsoft Excel",Finance,Contract,London,85000,samsung
+981314,David Lee,35,Male," bachelor""s degree",N/A,"Sales, Customer Service, Communication",Retail,Part-time,Chicago,30000,google
+962892,Sarah Johnson,27,Female,Associate's degree,Nursing,"Patient Care, Medical Terminology",Healthcare,Full-time,Los Angeles,45000,merck & co
+967782,Michael Williams,46,Male,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Marketing,Freelance,Toronto,70000,ABB
+986307,Samantha Lee,29,Female,Master's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Healthcare,Full-time,Washington DC,75000,johnson &johnson
+990789,Ethan Kim,33,Male,Bachelor's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Engineering,Full-time,San Francisco,80000,bechtel construction
+981988,Rachel Chen,25,Female,Master's degree,Computer Science,"C++, Java, Web Development",Technology,Internship,Seattle,40000,Microsoft
+966890,Alexander Brown,31,Male,Bachelor's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Architecture,Freelance,London,60000,bechtel construction
+980703,Ashley Johnson,23,Female,Associate's degree,Culinary Arts,"Cooking, Food Safety, Kitchen Management",Hospitality,Part-time,Miami,20000,merck & co
+964005,Maria Rodriguez,28,Female,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Finance,Full-time,New York,65000,apple
+811374,Kevin Lee,24,Male,Associate's degree,IT,"Network Security, Troubleshooting, Linux",Technology,Full-time,Dallas,50000,samsung
+974710,Lisa Brown,35,Female,Master's degree,Marketing,"Market Research, Strategic Planning",Marketing,Contract,Los Angeles,90000,google
+958757,Daniel Park,30,Male,Bachelor's degree,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Environmental Sc.,Full-time,Vancouver,100000,turner construction
+961292,John Smith,28,Male,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Technology,Full-time,New York,65000,apple
+970020,Jane Doe,42,Female,Master's degree,Business,"Finance, Accounting, Microsoft Excel",Finance,Contract,London,85000,samsung
+922017,David Lee,35,Male," bachelor""s degree",N/A,"Sales, Customer Service, Communication",Retail,Part-time,Chicago,30000,google
+964777,Sarah Johnson,27,Female,Associate's degree,Nursing,"Patient Care, Medical Terminology",Healthcare,Full-time,Los Angeles,45000,johnson &johnson
+977882,Michael Williams,46,Male,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Marketing,Freelance,Toronto,70000,google
+958763,Nicholas Wilson,32,Male,Bachelor's degree,Engineering,"MATLAB, SolidWorks, CAD",Engineering,Full-time,Houston,75000,ABB
+992113,Olivia Davis,39,Female,Master's degree,Psychology,"Counseling, Psychotherapy",Healthcare,Contract,Miami,85000,merck & co
+880743,Ethan Lee,24,Male," bachelor""s degree",N/A,"Hospitality, Cooking, Time Management",Hospitality,Part-time,San Francisco,25000,terrabog professional services 
+975865,Ava Johnson,36,Female,Bachelor's degree,Graphic Design,"Adobe Photoshop, Illustrator",Creative,Freelance,Austin,55000,amazon
+947028,Jacob Kim,30,Male,Master's degree,Education,"Curriculum Design, Teaching",Education,Full-time,Boston,65000,terrabog professional services 
+505121,Jane Doe,42,Female,Master's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Marketing,Full-time,New York,55000,samsung
+995668,David Lee,24,Male,Bachelor's degree,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Manufacturing,Contract,London,35000,lockheed martin engineering 
+973916,Rachel Kim,29,Female,Bachelor's degree,Psychology,"Counseling, Research Methods, Communication",Healthcare,Part-time,Chicago,45000,merck & co
+987186,Michael Chen,31,Male,Master's degree,Finance,"Financial Analysis, Investment Management",Finance,Full-time,Los Angeles,80000,google
+842611,Sarah Brown,25,Female,Bachelor's degree,Journalism,"Writing, Editing, Social Media Management",Media,Freelance,Toronto,45000,terrabog professional services 
+974422,Kevin Davis,27,Male,Bachelor's degree,Civil Engineering,"AutoCAD, Construction Management, Project Planning",Construction,Full-time,Washington DC,55000,china state construction
+979363,Emily Wilson,23,Female,Bachelor's degree,Biology,"Lab Techniques, Research Methodology, Data Analysis",Science,Full-time,San Francisco,35000,terrabog professional services 
+974630,William Taylor,26,Male,Master's degree,Economics,"Econometrics, Microeconomics, Statistical Analysis",Consulting,Internship,Seattle,75000,terrabog professional services 
+973788,Samantha Johnson,30,Female,Bachelor's degree,Education,"Curriculum Design, Teaching, Classroom Management",Education,Freelance,London,45000,terrabog professional services 
+973482,Daniel Hernandez,33,Male,Master's degree,Public Health,"Epidemiology, Biostatistics, Health Policy",Healthcare,Part-time,Miami,40000,terrabog professional services 
+991106,Jennifer Garcia,27,Female,Bachelor's degree,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Design,Full-time,New York,35000,apple
+979440,Liam Robinson,24,Male,Bachelor's degree,Environmental Science,"GIS, Fieldwork, Environmental Policy",Environment,Full-time,Dallas,30000,china state construction
+973484,Olivia Nguyen,28,Female,Master's degree,International Business,"Cross-cultural Communication, Global Marketing",Business,Contract,Miami,65000,Microsoft
+972285,   Zachary Roberts,31,Female,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Health care,Full-time,San Francisco,85000,johnson &johnson
+964433,   Tiffany Gonzalez,29,Female,Master's degree,Business,"Finance, Accounting, Microsoft Excel",Finance,Contract,Austin,30000,oracle
+975926,   Josephine Patel,28,Male,Associate's degree,health,"medicals, Customer Service, Communication",healthcare,Part-time,Boston,45000,merck & co
+994373,   Gabriela Green,34,Male,Bachelor's Degree ,Nursing,"Patient Care, Medical Terminology",Technology,Full-time,New York,70000,merck & co
+983937,   Jaden James,37,Male,Master's Degree ,Marketing,"Digital Marketing, Social Media",Agriculture,Freelance,London,75000, Amazon
+380569,   Natalie Brown,25,Female,Bachelor's Degree ,Public Health,"Epidemiology, Biostatistics, Data Analysis",Energy,Full-time,Chicago,80000, Apple
+996554,  Sean Johnson,36,Male,Master's Degree ,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Retail,Full-time,Los Angeles,40000, Microsoft
+961165,  Mia Garcia,30,Male,Bachelor's Degree ,Computer Science,"C++, Java, Web Development",Technology,Internship,Toronto,60000, Google
+974409,  Andrew Lee,38,Female,Bachelor's Degree ,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Transportation,Freelance,Washington DC,20000, Facebook
+960369,    Dylan Perez,22,Male,Master's Degree ,Accounting,"Tax Preparation, Financial Reporting, Excel",Marketing,Full-time,Seattle,50000, Alibaba Group
+979159,    Vanessa Davis,38,Female,Bachelor's degree,IT,"Network Security, Troubleshooting, Linux",Media,Full-time,London,90000, Tencent Holdings
+976112,    Matthew Rodriguez,35,Female,Master's Degree ,Marketing,"Market Research, Strategic Planning",Consulting,Contract,Miami,90000, Samsung Electronics
+994018,ganiu sulaimon,26,male,master's degree,Computer Science,"excel, Python, Data Structures",Technology,Full-time, New York,120000, Intel
+961571,uju judith eziokwu,27,female,Master's Degree ,Computer Science,"power bi, Python, Data Structures",Technology,Full-time, California,110000, IBM
+968844,adebisi beatrice olumoko,26,female,master's degree,Computer Science,"Rstudio, Python, Data Structures",Technology,Contract, Texas,100000, Cisco Systems
+965576,habeeb oluwarotimi oyekunle,25,male,Master's Degree ,Computer Science,"Rstudio, Python, Data Structures",Technology,Full-time, Florida,130000, Oracle
+978440,funmiola patience usman,28,female,"master""s degree",Computer Science,"Rstudio, Python, Data Structures",Technology,Full-time, Ohio,150000, Dell Technologies
+986742,Sofia,36,Female,Bachelor's degree,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,technology,Full-time, Oregon,65000, HP Inc
+983836,William,44,Male,Master's degree,Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,healthcare,Contract, Colorado,85000, Sony
+985335,Mia,25,Female," bachelor""s degree",Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,Construction,Part-time, Georgia,30000, Nokia
+992476,Daniel,33,Male,Associate's degree,Computer Science,Algorithm design and analysis Object-oriented programming Database management,Technology,Full-time, Michigan,45000, Netflix
+977318,Emily,24,Female,Bachelor's degree,Journalism,Investigative reporting Multimedia storytelling Data journalism,media,Freelance, Arizona,70000, Uber Technologies
+997372,Michael,35,Male,Master's degree,Mechanical Engineering,Material science CAD modeling and simulation Robotics,construction,Full-time," Alberta, Canada",75000, Airbnb
+778963,Olivia,34,Female,Bachelor's degree,Business Administration,Financial analysis and forecasting Strategic planning Project management,fintech,Full-time," Sindh, Pakistan",80000, Lyft
+991218,Alexander,28,Male,Master's degree,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,healthcare,Internship," Sao Paulo, Brazil",40000, Tesla
+959415,Charlotte,18,Female,Bachelor's degree,Graphic Design,Typography and layout design Branding and identity design User experience design,Technology,Freelance," Yucatan, Mexico",60000, Twitter
+978816,Samuel,31,Female,Associate's degree,Political Science,Comparative politics international relations Political theory,media,Part-time," Eastern Cape, South Africa",20000, LinkedIn
+978804,Ava,22,Male,Bachelor's degree,Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,healthcare,Full-time," Hubei, China",65000, Square
+966539,Ethan,20,Female,Associate's degree,physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,Technology,Full-time," Lombardy, Italy",50000, Dropbox
+959023,Isabella,22,Male,Master's degree,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,education,Contract," Ogun, Nigeria",90000, Box
+989660,Benjamin,30,Male,Bachelor's degree,marketing,Market research and analysis Brand management Digital marketing and advertising,media,Full-time," Odisha, India",100000, Atlassian
+947850,Amelia,32,Female,Bachelor's degree,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,education,Full-time," Canterbury, New Zealand",65000, Slack Technologies
+967162,Jacob,44,Male,Master's degree,Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,Construction,Contract," Paris, France",85000, Zoom Video Communications
+991911,Mia,50,Female," bachelor""s degree",chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,Manufacturing,Part-time," London, United Kingdom",30000, DocuSign
+976578,Lucas,18,Male,Associate's degree,social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,media ,Full-time," Berlin, Germany",45000, Okta
+972440,Harper,43,Male,Bachelor's degree,music,Music theory and composition Performance technique and interpretation Music technology and production,media ,Freelance," Madrid, Spain",70000, Twilio
+985214,Matthew,36,Female,Bachelor's degree,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,media,Full-time," Rome, Italy",75000, Zscaler
+981823,Grace,36,Male,Master's degree,economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,fintech,Contract," Moscow, Russia",85000, CrowdStrike Holdings
+965464,Gabriel,31,Female," bachelor""s degree",theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,media,Part-time," Amsterdam, Netherlands",25000, Fortinet
+985379,Abigail,23,Male,Bachelor's degree,Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,education,Freelance," Vienna, Austria",55000, Palo Alto Networks
+982209,David,20,Female,Master's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Full-time," Athens, Greece",65000, CyberArk Software
+965589,Ella,42,Male,Master's degree,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",media,Full-time," Lisbon, Portugal",55000, Check Point Software Technologies
+975758,Joseph,34,Female,Bachelor's degree,art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,media,Contract," Copenhagen, Denmark",35000, VMware
+992153,Madison,19,Male,Bachelor's degree,Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,education,Part-time," Brussels, Belgium",45000, Red Hat
+811251,Noah,25,Female,Master's degree,sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,media ,Full-time," Helsinki, Finland",80000, ServiceNow
+960049,Lily,27,Male,Bachelor's degree,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",media,Freelance," Oslo, Norway",45000, Salesforcecom
+998310,Emma,27,Female,Bachelor's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Full-time," Stockholm, Sweden",55000, Adobe
+983762,Jackson,33,Male,Bachelor's degree,Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,Manufacturing,Full-time," Zurich, Switzerland",35000, Autodesk
+973161,Scarlett,19,Female,Master's degree,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,media,Internship," Warsaw, Poland",75000, Ansys
+971194,Oliver,38,Male,Bachelor's degree,English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,education,Freelance," Budapest, Hungary",45000, Splunk
+949786,Chloe,28,Female,Master's degree,Computer Science,"Java, Python, Data Structures",Industry Interest,Part-time," Dubrovnik, Croatia",40000, Elastic
+968782,Elijah,32,Male,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",Technology,Full-time," Reykjavik, Iceland",35000, Cloudflare
+998305,Avery,35,Female,Bachelor's degree,N/A,"Sales, Customer Service, Communication",Finance,Full-time," Edinburgh, United Kingdom",30000, Snowflake
+968581,Ethan,35,Female,Master's degree,Nursing,"Patient Care, Medical Terminology",Retail,Contract," Dublin, Ireland",65000, Datadog
+998336,Elizabeth,23,Female,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Healthcare,Full-time," Prague, Czech Republic",85000, Sumo Logic
+748110,Henry,35,Male,Master's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Marketing,Contract," Tallinn, Estonia",30000, MongoDB
+959034,Ella,47,Male,Associate's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Healthcare,Part-time," Riga, Latvia",45000, UiPath
+977223,Dylan,37,Male,Bachelor's Degree ,Computer Science,"C++, Java, Web Development",Engineering,Full-time," Vilnius, Lithuania",70000, Roblox
+958701,Sofia,47,Female,Master's Degree ,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Technology,Freelance," Sofia, Bulgaria",75000, Epic Games
+555497,Samuel,35,Male,Bachelor's Degree ,Culinary Arts,"Cooking, Food Safety, Kitchen Management",Architecture,Full-time," Bucharest, Romania",80000, Unity Technologies
+911470,Victoria,26,Male,Master's Degree ,Accounting,"Tax Preparation, Financial Reporting, Excel",Hospitality,Full-time," Belgrade, Serbia",40000, Nintendo
+962942,Levi,19,Female,Bachelor's Degree ,IT,"Network Security, Troubleshooting, Linux",Finance,Internship," Sarajevo, Bosnia and Herzegovina",60000, Activision Blizzard
+962309,Addison,24,Male,Bachelor's Degree ,Marketing,"Market Research, Strategic Planning",Technology,Freelance," Bratislava, Slovakia",20000, Electronic Arts
+967831,Mason,27,Female,Master's Degree ,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Marketing,Full-time," Ljubljana, Slovenia",50000, Take-Two Interactive Software
+993382,Aubrey,22,Female,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Environmental Sc.,Full-time," Zagreb, Croatia",90000, Shopify
+784138,Caleb,35,male,Master's Degree ,Business,"Finance, Accounting, Microsoft Excel",Technology,Contract," Marseille, France",90000, Square Enix Holdings
+961318,Emily,29,female,master's degree,N/A,"Sales, Customer Service, Communication",Finance,Full-time," Lyon, France",120000, Rakuten
+980256,Isaac,21,female,Master's Degree ,Nursing,"Patient Care, Medical Terminology",Retail,Full-time," Munich, Germany",110000, MercadoLibre
+988845,Charlotte,20,male,master's degree,Marketing,"Digital Marketing, Social Media",Healthcare,Contract," Hamburg, Germany",100000, Sea Limited
+959179,Wyatt,36,female,Master's Degree ,Engineering,"MATLAB, SolidWorks, CAD",Marketing,Full-time," Cologne, Germany",130000, Zendesk
+972441,Sofia,32,,"master""s degree",Psychology,"Counseling, Psychotherapy",Engineering,Full-time," Frankfurt, Germany",150000, Atlassian
+965582,Owen,35,,Bachelor's degree,N/A,"Hospitality, Cooking, Time Management",Healthcare,Full-time," Dresden, Germany",65000, Dropbox
+962505,Natalie,21,,Master's degree,Graphic Design,"Adobe Photoshop, Illustrator",Hospitality,Contract," Salzburg, Austria",85000, HubSpot
+990724,Alexander,32,," bachelor""s degree",Education,"Curriculum Design, Teaching",Creative,Part-time," Krakow, Poland",30000, Smartsheet
+986753,Ellie,25,,Associate's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Education,Full-time," Gdansk, Poland",45000, DocuSign
+791548,Sebastian,37,,Bachelor's degree,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Marketing,Freelance," Valencia, Spain",70000, Square
+594112,Scarlett,40,Male+D43B100D2:D57,Master's degree,Psychology,"Counseling, Research Methods, Communication",Manufacturing,Full-time," Malaga, Spain",75000, Splunk
+973638,Ethan,23,Female,Bachelor's degree,Finance,"Financial Analysis, Investment Management",Healthcare,Full-time," Porto, Portugal",80000, RingCentral
+974623,Zoe,26,Male,Master's degree,Journalism,"Writing, Editing, Social Media Management",Finance,Internship," Krakow, Poland",40000, Cloudera
+992480,Isaiah,38,Female,Bachelor's degree,Civil Engineering,"AutoCAD, Construction Management, Project Planning",Media,Freelance," Saint Petersburg, Russia",60000, PagerDuty
+959571,Elizabeth,35,Male,Associate's degree,Biology,"Lab Techniques, Research Methodology, Data Analysis",Construction,Part-time," Geneva, Switzerland",20000, Asana
+973557,Logan,20,Female,Bachelor's degree,Economics,"Econometrics, Microeconomics, Statistical Analysis",Science,Full-time, Monaco,65000, Dynatrace
+966991,Audrey,41,Male,Associate's degree,Education,"Curriculum Design, Teaching, Classroom Management",Consulting,Full-time," New York City, USA",50000, MongoDB
+966391,Luke,33,Female,Master's degree,Public Health,"Epidemiology, Biostatistics, Health Policy",Education,Contract," Los Angeles, USA",90000, Slack Technologies
+933048,Brooklyn,40,Male,Bachelor's degree,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Healthcare,Full-time," Chicago, USA",100000, Datadog
+967830,Gabriel,34,Female,Bachelor's degree,Environmental Science,"GIS, Fieldwork, Environmental Policy",Design,Full-time," Toronto, Canada",65000, JFrog
+972297,Piper,32,Female,Master's degree,International Business,"Cross-cultural Communication, Global Marketing",Environment,Contract," Montreal, Canada",85000, Cloudflare
+958639,Julian,30,Male," bachelor""s degree",Computer Science,"Java, Python, Data Structures",Business,Part-time," Vancouver, Canada",30000, Snowflake
+911360,Hannah,33,Female,Associate's degree,Business,"Finance, Accounting, Microsoft Excel",Health care,Full-time," Mexico City, Mexico",45000, ZoomInfo Technologies
+997201,Cameron,36,Male,Bachelor's degree,health,"medicals, Customer Service, Communication",Finance,Freelance," Miami, USA",70000, Zscaler
+993226,Grace,32,Male,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",healthcare,Full-time," San Francisco, USA",75000, CrowdStrike Holdings
+962981,Christopher,31,Female,Master's degree,Marketing,"Digital Marketing, Social Media",Technology,Contract," Washington DC, USA",85000, Twilio
+980234,Isabelle,24,Male," bachelor""s degree",Public Health,"Epidemiology, Biostatistics, Data Analysis",Agriculture,Part-time," Boston, USA",25000, Appian
+998456,Ryan,22,Female,Bachelor's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Energy,Freelance," Seattle, USA",55000, Domo
+110595,Savannah,20,Male,Master's degree,Computer Science,"C++, Java, Web Development",Retail,Full-time," Austin, USA",65000, Coupa Software
+958874,Nicholas,34,Male,Master's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Technology,Full-time," Houston, USA",55000, Anaplan
+977432,Addison,56,Female,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Transportation,Contract," Dallas, USA",35000, Zillow Group
+982682,Caleb,27,Male,Bachelor's degree,IT,"Network Security, Troubleshooting, Linux",Marketing,Part-time," San Diego, USA",45000, Chewy
+959172,Avery,23,Female,Master's degree,Marketing,"Market Research, Strategic Planning",Media,Full-time," Phoenix, USA",80000, Peloton Interactive
+958660,Daniel,22,Male,Bachelor's degree,Computer Science,"excel, Python, Data Structures",Consulting,Freelance," Atlanta, USA",45000, Beyond Meat
+967585,Anna,25,Female,Bachelor's degree,Computer Science,"power bi, Python, Data Structures",Technology,Full-time," Denver, USA",55000, Moderna
+967920,Christian,21,Male,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Technology,Full-time," Nashville, USA",35000, CRISPR Therapeutics
+984035,Lauren,27,Female,Master's degree,Computer Science,"Rstudio, Python, Data Structures",Technology,Internship," Portland, USA",75000, Illumina
+980188,Lincoln,23,Male,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Technology,Freelance," Calgary, Canada",45000, Vertex Pharmaceuticals
+971446,Brielle,21,Female,Master's degree,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,Technology,Part-time," Ottawa, Canada",40000, Nvidia
+968358,Aaron,33,Male,Bachelor's degree,Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,technology,Full-time," Quebec City, Canada",35000, Advanced Micro Devices
+965460,Avery,22,Female,Bachelor's degree,Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,healthcare,Full-time," Guadalajara, Mexico",30000, Qualcomm
+926421,Isaiah,24,Male,Master's degree,Computer Science,Algorithm design and analysis Object-oriented programming Database management,Construction,Contract," Cancun, Mexico",65000, Micron Technology
+991469,Bella,33,Female,Bachelor's degree,Journalism,Investigative reporting Multimedia storytelling Data journalism,Technology,Full-time," Tijuana, Mexico",85000, Western Digital
+963796,Eli,28,Male,Master's degree,Mechanical Engineering,Material science CAD modeling and simulation Robotics,media,Contract," Edmonton, Canada",30000, Seagate Technology
+978743,Claire,22,Female,Associate's degree,Business Administration,Financial analysis and forecasting Strategic planning Project management,construction,Part-time," Winnipeg, Canada",45000, Broadcom
+991136,Sebastian,31,Male,Bachelor's Degree ,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,fintech,Full-time," Anchorage, USA",70000, Marvell Technology Group
+968762,Skylar,46,Female,Master's Degree ,Graphic Design,Typography and layout design Branding and identity design User experience design,healthcare,Freelance," Honolulu, USA",75000, NXP Semiconductors
+981758,Joshua,24,Female,Bachelor's Degree ,Political Science,Comparative politics international relations Political theory,Technology,Full-time," Tampa, USA",80000, ASML Holding
+958695,Leah,20,Female,Master's Degree ,Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,media,Full-time," Charlotte, USA",40000, Lam Research
+962271,Xavier,24,Male,Bachelor's Degree ,physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,healthcare,Internship," Philadelphia, USA",60000, Applied Materials
+968041,Isabella,36,Male,Bachelor's Degree ,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,Technology,Freelance," Las Vegas, USA",20000, KLA Corporation
+870165,Julian,38,Male,Master's Degree ,marketing,Market research and analysis Brand management Digital marketing and advertising,education,Full-time," Salt Lake City, USA",50000, Texas Instruments
+991425,Aria,31,Female,Bachelor's degree,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,media,Full-time," San Antonio, USA",90000, Analog Devices
+982066,Dominic,42,Male,Master's Degree ,Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,education,Contract," Indianapolis, USA",90000, Maxim Integrated Products
+965154,Madelyn,22,Male,master's degree,chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,Construction,Full-time," Kansas City, USA",120000, Infineon Technologies
+969651,Levi,34,Female,Master's Degree ,social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,Manufacturing,Full-time," Columbus, USA",110000, STMicroelectronics
+975167,Jade,30,Male,master's degree,music,Music theory and composition Performance technique and interpretation Music technology and production,media ,Contract," Louisville, USA",100000, Siemens
+968513,Anthony,27,Female,Master's Degree ,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,media ,Full-time," Memphis, USA",130000, ABB
+976951,Lily,24,Female,"master""s degree",economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,media,Full-time," New Orleans, USA",150000, Schneider Electric
+969078,Wyatt,33,male,Bachelor's degree,theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,fintech,Full-time," Oklahoma City, USA",90000, Honeywell International
+968549,Nora,42,female,Master's degree,Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,media,Contract," Omaha, USA",120000, Johnson Controls International
+963051,Isaac,38,female," bachelor""s degree",Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,education,Part-time," Pittsburgh, USA",110000, Rockwell Automation
+966856,Camila,24,male,Associate's degree,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",media,Full-time," Raleigh, USA",100000, Emerson Electric
+970812,Jackson,31,female,Bachelor's degree,art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,media,Freelance," Sacramento, USA",130000, General Electric
+895658,Lila,28,,Master's degree,Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,media,Full-time," San Jose, USA",150000, Raytheon Technologies
+993566,Jeremiah,23,,Bachelor's degree,sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,education,Full-time," St Louis, USA",100000, Lockheed Martin
+984245,Kennedy,42,,Master's degree,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",media ,Internship,,65000, Northrop Grumman
+963102,Colton,49,,Bachelor's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Freelance,New York,85000, Boeing
+40049,Peyton,33,,Associate's degree,Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,media,Part-time,London,30000, Airbus
+972397,Nathaniel,22,,Bachelor's degree,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,Manufacturing,Full-time,Chicago,45000, BAE Systems
+966427,Mackenzie,31,Male+D43B100D2:D58,Associate's degree,English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,media,Full-time,Los Angeles,70000, Thales Group
+971483,Dylan,20,Female,Master's degree,Computer Science,"Java, Python, Data Structures",education,Contract,Toronto,75000, Rolls-Royce Holdings
+992349,Maya,38,Male,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",Industry Interest,Full-time,Washington DC,85000, Honeywell Aerospace
+836282,Jonathan,30,Female,Bachelor's degree,N/A,"Sales, Customer Service, Communication",Technology,Full-time,San Francisco,25000, Safran
+991556,Adeline,41,Male,Master's degree,Nursing,"Patient Care, Medical Terminology",Finance,Contract,Seattle,55000, Leonardo
+985164,Andrew,26,Female," bachelor""s degree",Marketing,"Digital Marketing, Social Media",Retail,Part-time,London,65000, Capgemini
+965379,Hailey,35,Male,Associate's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Healthcare,Full-time,Miami,55000, Accenture
+966995,Christopher,22,Female,Bachelor's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Marketing,Freelance,New York,35000, Infosys
+963074,Isla,25,Male,Bachelor's degree,Computer Science,"C++, Java, Web Development",Healthcare,Full-time,Dallas,45000, Tata Consultancy Services
+969094,Grayson,21,Female,Master's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Engineering,Contract,Los Angeles,80000, Wipro
+966304,Aubree,41,Female," bachelor""s degree",Culinary Arts,"Cooking, Food Safety, Kitchen Management",Technology,Part-time,Vancouver,45000, Cognizant Technology Solutions
+967966,Joshua,34,Male,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Architecture,Freelance,New York,55000, HCL Technologies
+959082,Victoria,22,Female,Master's degree,IT,"Network Security, Troubleshooting, Linux",Hospitality,Full-time,London,35000, DXC Technology
+316561,Asher,30,Male,Master's degree,Marketing,"Market Research, Strategic Planning",Finance,Full-time,Chicago,75000, Atos
+992464,Aurora,18,Male,Bachelor's degree,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Technology,Contract,Los Angeles,45000, CGI Inc
+966126,Charles,30,Female,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Marketing,Part-time,Toronto,40000, Fujitsu
+978374,Sophie,30,Male,Master's degree,Business,"Finance, Accounting, Microsoft Excel",Environmental Sc.,Full-time,Houston,35000, NEC
+980594,Hunter,27,Female,Bachelor's degree,N/A,"Sales, Customer Service, Communication",Technology,Freelance,Miami,30000, Hitachi
+977925,Eva,23,Male,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",Finance,Full-time,San Francisco,65000, Sony Corporation
+966987,Landon,26,Male,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Retail,Full-time,Austin,85000, LG Electronics
+966419,Naomi,34,Female,Master's degree,Engineering,"MATLAB, SolidWorks, CAD",Healthcare,Internship,Boston,30000, Samsung Electronics
+997986,David,35,Male,Bachelor's degree,Psychology,"Counseling, Psychotherapy",Marketing,Freelance,New York,45000, Huawei Technologies
+979665,Madeline,37,Female,Master's degree,N/A,"Hospitality, Cooking, Time Management",Engineering,Part-time,London,70000, ZTE Corporation
+919796,Gavin,21,Male,Bachelor's degree,Graphic Design,"Adobe Photoshop, Illustrator",Healthcare,Full-time,Chicago,75000, Xiaomi Corporation
+985459,Brooklyn,26,Female,Bachelor's degree,Education,"Curriculum Design, Teaching",Hospitality,Full-time,Los Angeles,80000, Lenovo Group
+989683,Jordan,41,Male,Master's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Creative,Contract,Toronto,40000, HP Inc
+966595,Penelope,41,Female,Bachelor's degree,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Education,Full-time,Washington DC,60000, Dell Technologies
+964740,Nicholas,44,Male,Master's degree,Psychology,"Counseling, Research Methods, Communication",Marketing,Contract,San Francisco,20000, IBM
+393487,Claire,30,Female,Associate's degree,Finance,"Financial Analysis, Investment Management",Manufacturing,Part-time,Seattle,50000, Oracle Corporation
+990667,Evan,20,Male,Bachelor's Degree ,Journalism,"Writing, Editing, Social Media Management",Healthcare,Full-time,London,90000, SAP SE
+969714,Emilia,54,Female,Master's Degree ,Civil Engineering,"AutoCAD, Construction Management, Project Planning",Finance,Freelance,Miami,90000, Adobe Inc
+19457,Aaron,28,Male,Bachelor's Degree ,Biology,"Lab Techniques, Research Methodology, Data Analysis",Media,Full-time,New York,120000, Salesforcecom
+992737,Payton,43,Female,Master's Degree ,Economics,"Econometrics, Microeconomics, Statistical Analysis",Construction,Full-time,Dallas,110000, Workday Inc
+974246,Zachary,22,Male,Bachelor's Degree ,Education,"Curriculum Design, Teaching, Classroom Management",Science,Internship,Miami,100000, ServiceNow Inc
+960407,Eliana,53,Female,Bachelor's Degree ,Public Health,"Epidemiology, Biostatistics, Health Policy",Consulting,Freelance,San Francisco,130000, Zoom Video Communications
+968734,Thomas,24,Male,Master's Degree ,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Education,Full-time,Austin,150000, Dropbox Inc
+967648,Skylar,25,Female,Bachelor's degree,Environmental Science,"GIS, Fieldwork, Environmental Policy",Healthcare,Full-time,Boston,100000, DocuSign Inc
+752489,Adam,41,Female,Master's Degree ,International Business,"Cross-cultural Communication, Global Marketing",Design,Contract,New York,130000, Square Inc
+982290,Sophie,35,Female,master's degree,Computer Science,"Java, Python, Data Structures",Environment,Full-time,London,150000, Etsy Inc
+904521,Adrian,19,Male,Master's Degree ,Business,"Finance, Accounting, Microsoft Excel",Business,Full-time,Chicago,65000, PayPal Holdings Inc
+985097,Taylor,38,Male,master's degree,health,"medicals, Customer Service, Communication",Health care,Contract,Los Angeles,85000, Visa Inc
+997706,Cooper,40,Male,Master's Degree ,Nursing,"Patient Care, Medical Terminology",Finance,Full-time,Toronto,30000, Mastercard Inc
+977799,Eleanor,54,Female,"master""s degree",Marketing,"Digital Marketing, Social Media",healthcare,Full-time,Washington DC,45000, American Express Company
+964504,Richard,22,Male,Bachelor's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Technology,Full-time,Seattle,70000, Discover Financial Services
+911782,Caroline,36,Male,Master's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Agriculture,Contract,London,75000, Intuit Inc
+988868,Grayson,35,Female," bachelor""s degree",Computer Science,"C++, Java, Web Development",Energy,Part-time,Miami,80000, Uber Technologies Inc
+976739,Ruby,31,Male,Associate's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Retail,Full-time, New York,40000, Lyft Inc
+974688,Mason,38,Female,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Technology,Freelance, California,60000, Airbnb Inc
+663594,Elsie,22,Female,Master's degree,IT,"Network Security, Troubleshooting, Linux",Transportation,Full-time, Texas,20000, Expedia Group Inc
+968470,Aiden,32,male,Bachelor's degree,Marketing,"Market Research, Strategic Planning",Marketing,Full-time, Florida,65000, Booking Holdings Inc
+984191,Ivy,47,female,Master's degree,Computer Science,"excel, Python, Data Structures",Media,Internship, Ohio,50000, Tripadvisor Inc
+969757,Blake,57,female,Bachelor's degree,Computer Science,"power bi, Python, Data Structures",Consulting,Freelance, Oregon,90000, Google (Alphabet Inc)
+979272,Piper,35,male,Associate's degree,Computer Science,"Rstudio, Python, Data Structures",Technology,Part-time, Colorado,100000, Facebook Inc
+356345,Tristan,43,female,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Technology,Full-time, Georgia,65000, Twitter Inc
+987413,Sadie,35,,Associate's degree,Computer Science,"Rstudio, Python, Data Structures",Technology,Full-time, Michigan,85000, Snap Inc
+958749,Leo,33,,Master's degree,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,Technology,Contract, Arizona,30000, Pinterest Inc
+976677,Stella,32,,Bachelor's degree,Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,Technology,Full-time," Alberta, Canada",45000, Microsoft Corporation
+961817,Peter,41,,Bachelor's degree,Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,technology,Full-time," Sindh, Pakistan",70000, Amazoncom Inc
+974435,Annabelle,36,,Master's degree,Computer Science,Algorithm design and analysis Object-oriented programming Database management,healthcare,Contract," Sao Paulo, Brazil",75000,continue
+953686,Austin,25,," bachelor""s degree",Journalism,Investigative reporting Multimedia storytelling Data journalism,Construction,Part-time," Yucatan, Mexico",85000, Netflix Inc
+971590,Gabriella,27,Male+D43B100D2:D59,Associate's degree,Mechanical Engineering,Material science CAD modeling and simulation Robotics,Technology,Full-time," Eastern Cape, South Africa",25000, Apple Inc
+959195,Roman,42,Female,Bachelor's degree,Business Administration,Financial analysis and forecasting Strategic planning Project management,media,Freelance," Hubei, China",55000, Intel Corporation
+986657,Jade,25,Male,Bachelor's degree,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,construction,Full-time," Lombardy, Italy",65000, Cisco Systems Inc
+982526,Diego,30,Female,Master's degree,Graphic Design,Typography and layout design Branding and identity design User experience design,fintech,Contract," Ogun, Nigeria",55000, Juniper Networks Inc
+926327,Hazel,23,Male," bachelor""s degree",Political Science,Comparative politics international relations Political theory,healthcare,Part-time," Odisha, India",35000, F Networks Inc
+964346,Carlos,32,Female,Bachelor's degree,Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,Technology,Freelance," Canterbury, New Zealand",45000, Fortinet Inc
+980415,Elizabeth,39,Male,Master's degree,physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,media,Full-time," Paris, France",80000, Palo Alto Networks Inc
+937498,Brody,41,Female,Master's degree,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,healthcare,Full-time," London, United Kingdom",45000, Symantec Corporation
+976592,Genevieve,30,Male,Bachelor's degree,marketing,Market research and analysis Brand management Digital marketing and advertising,Technology,Contract," Berlin, Germany",55000, McAfee LLC
+971327,Cole,26,Female,Bachelor's degree,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,education,Part-time," Madrid, Spain",35000, Akamai Technologies Inc
+972224,Hadley,57,Female,Master's degree,Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,media,Full-time," Rome, Italy",75000, Cloudflare Inc
+978644,Felix,30,Male,Bachelor's degree,chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,education,Freelance," Moscow, Russia",45000, ZoomInfo Technologies Inc
+974622,Josephine,38,Female,Bachelor's degree,social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,Construction,Full-time," Amsterdam, Netherlands",40000, Okta Inc
+957806,Micah,34,Male,Bachelor's degree,music,Music theory and composition Performance technique and interpretation Music technology and production,Manufacturing,Full-time," Vienna, Austria",35000, DocuSign Inc
+810639,Mackenzie,38,Male,Master's degree,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,media ,Internship," Athens, Greece",30000, CrowdStrike Holdings Inc
+983179,Vincent,22,Female,Bachelor's degree,economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,media ,Freelance," Lisbon, Portugal",65000, Dropbox Inc
+991984,Clara,18,Male,Master's degree,theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,media,Part-time," Copenhagen, Denmark",85000, Slack Technologies Inc
+980137,Maxwell,24,Female,Bachelor's degree,Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,fintech,Full-time," Brussels, Belgium",30000, Atlassian Corporation Plc
+971312,Summer,41,Male,Bachelor's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Full-time," Helsinki, Finland",45000, Twilio Inc
+958733,Justin,37,Male,Master's degree,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",education,Contract," Oslo, Norway",70000, MongoDB Inc
+974239,Cecilia,22,Female,Bachelor's degree,art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,media,Full-time," Stockholm, Sweden",75000, Cloudera Inc
+980461,Kingston,26,Male,Master's degree,Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,media,Contract," Zurich, Switzerland",80000, Snowflake Inc
+992832,Julia,26,Female,Associate's degree,sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,media,Part-time," Warsaw, Poland",40000, Splunk Inc
+975713,Seth,39,Male,Bachelor's Degree ,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",education,Full-time," Budapest, Hungary",60000, Nutanix Inc
+985072,Sophie,33,Female,Master's Degree ,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media ,Freelance," Dubrovnik, Croatia",20000, Red Hat Inc
+967684,Oscar,42,Male,Bachelor's Degree ,Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,media,Full-time," Reykjavik, Iceland",50000, ServiceNow Inc
+961643,Alexandra,34,Female,Master's Degree ,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,media,Full-time," Edinburgh, United Kingdom",90000, VMware Inc
+972673,Derek,41,Male,Bachelor's Degree ,English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,Manufacturing,Internship," Dublin, Ireland",90000, Dell Technologies Inc
+933953,Jasmine,29,Female,Bachelor's Degree ,Computer Science,"Java, Python, Data Structures",media,Freelance," Prague, Czech Republic",120000, Hewlett Packard Enterprise Co
+961925,Chance,31,Male,Master's Degree ,Business,"Finance, Accounting, Microsoft Excel",education,Full-time," Tallinn, Estonia",110000, Lenovo Group Limited
+983382,Isabelle,32,Female,Bachelor's degree,N/A,"Sales, Customer Service, Communication",Industry Interest,Full-time," Riga, Latvia",100000, Nokia Corporation
+967643,Elliot,35,Male,Master's Degree ,Nursing,"Patient Care, Medical Terminology",Technology,Contract," Vilnius, Lithuania",130000, Ericsson
+962131,Emery,29,Female,master's degree,Marketing,"Digital Marketing, Social Media",Finance,Full-time," Sofia, Bulgaria",150000, Broadcom Inc
+981132,Tucker,30,Male,Master's Degree ,Public Health,"Epidemiology, Biostatistics, Data Analysis",Retail,Full-time," Bucharest, Romania",65000, Qualcomm Inc
+7042,Alaina,50,Female,master's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Healthcare,Contract," Belgrade, Serbia",85000, Micron Technology Inc
+954883,Wesley,34,Male,Master's Degree ,Computer Science,"C++, Java, Web Development",Marketing,Full-time," Sarajevo, Bosnia and Herzegovina",30000, Texas Instruments Incorporated
+548231,Valerie,34,Female,"master""s degree",Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Healthcare,Full-time," Bratislava, Slovakia",45000, Applied Materials Inc
+962971,George,28,Female,Bachelor's degree,Culinary Arts,"Cooking, Food Safety, Kitchen Management",Engineering,Full-time," Ljubljana, Slovenia",70000, Lam Research Corporation
+987831,Serenity,44,Female,Master's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Technology,Contract," Zagreb, Croatia",75000, ASML Holding NV
+976658,Mario,31,Male," bachelor""s degree",IT,"Network Security, Troubleshooting, Linux",Architecture,Part-time," Marseille, France",80000, Sony Corporation
+963464,Delilah,35,Male,Associate's degree,Marketing,"Market Research, Strategic Planning",Hospitality,Full-time," Lyon, France",40000, Canon Inc
+965543,Louis,21,Male,Bachelor's degree,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Finance,Freelance," Munich, Germany",60000, Fujifilm Holdings Corporation
+961713,Esmeralda,40,Female,Master's degree,Computer Science,"Java, Python, Data Structures",Technology,Full-time," Hamburg, Germany",20000," Ricoh Company, Ltd"
+957965,Cooper,23,Male,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",Marketing,Full-time," Cologne, Germany",65000, Seiko Epson Corporation
+962251,Jocelyn,34,Male,Master's degree,N/A,"Sales, Customer Service, Communication",Environmental Sc.,Internship," Frankfurt, Germany",50000, Acer Inc
+992239,Everett,20,Female,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",Technology,Freelance," Dresden, Germany",90000, Lenovo Group Limited
+986724,Faith,46,Male,Associate's degree,Marketing,"Digital Marketing, Social Media",Finance,Part-time," Salzburg, Austria",100000," Hon Hai Precision Industry Co, Ltd"
+985365,Cody,32,Female,Bachelor's degree,Engineering,"MATLAB, SolidWorks, CAD",Retail,Full-time," Krakow, Poland",65000, Toshiba Corporation
+991315,Eden,25,Female,Associate's degree,Psychology,"Counseling, Psychotherapy",Healthcare,Full-time," Gdansk, Poland",85000, Panasonic Corporation
+969308,Sawyer,41,male,Master's degree,N/A,"Hospitality, Cooking, Time Management",Marketing,Contract," Valencia, Spain",30000, LG Electronics Inc
+973028,Melody,27,female,Bachelor's degree,Graphic Design,"Adobe Photoshop, Illustrator",Engineering,Full-time," Malaga, Spain",45000," Samsung Electronics Co, Ltd"
+978672,Kingston,19,female,Bachelor's degree,Education,"Curriculum Design, Teaching",Healthcare,Full-time," Porto, Portugal",70000, SK Hynix Inc
+992405,Harper,18,male,Master's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Hospitality,Contract," Krakow, Poland",75000, Micron Technology Inc
+939250,Grant,22,female," bachelor""s degree",Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Creative,Part-time," Saint Petersburg, Russia",85000, Broadcom Inc
+969012,Athena,23,,Associate's degree,Psychology,"Counseling, Research Methods, Communication",Education,Full-time," Geneva, Switzerland",25000, QUALCOMM Incorporated
+938916,Jesse,21,,Bachelor's degree,Finance,"Financial Analysis, Investment Management",Marketing,Freelance, Monaco,55000, Nvidia Corporation
+971646,Elaina,51,,Bachelor's degree,Journalism,"Writing, Editing, Social Media Management",Manufacturing,Full-time," New York City, USA",65000, Advanced Micro Devices Inc
+995240,Finn,22,,Master's degree,Civil Engineering,"AutoCAD, Construction Management, Project Planning",Healthcare,Contract," Los Angeles, USA",55000, Intel Corporation
+127577,Miranda,40,," bachelor""s degree",Biology,"Lab Techniques, Research Methodology, Data Analysis",Finance,Part-time," Chicago, USA",35000, Apple Inc
+967958,Kai,24,,Bachelor's degree,Economics,"Econometrics, Microeconomics, Statistical Analysis",Media,Freelance," Toronto, Canada",45000, Microsoft Corporation
+988441,Autumn,32,Male+D43B100D2:D60,Master's degree,Education,"Curriculum Design, Teaching, Classroom Management",Construction,Full-time," Montreal, Canada",80000, Alphabet Inc
+990247,Giovanni,38,Female,Master's degree,Public Health,"Epidemiology, Biostatistics, Health Policy",Science,Full-time," Vancouver, Canada",45000," Facebook, Inc"
+978830,Alexandria,34,Male,Bachelor's degree,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Consulting,Contract," Mexico City, Mexico",55000, Tencent Holdings Limited
+988171,Beau,22,Female,Bachelor's degree,Environmental Science,"GIS, Fieldwork, Environmental Policy",Education,Part-time," Miami, USA",35000, Alibaba Group Holding Limited
+968289,Giselle,27,Male,Master's degree,International Business,"Cross-cultural Communication, Global Marketing",Healthcare,Full-time," San Francisco, USA",75000," Baidu, Inc"
+962114,August,23,Female,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Design,Freelance," Washington DC, USA",45000," Twitter, Inc"
+968550,Hope,22,Male,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",Environment,Full-time," Boston, USA",40000, Snap Inc
+944050,Brooks,46,Female,Bachelor's degree,health,"medicals, Customer Service, Communication",Business,Full-time," Seattle, USA",35000," Pinterest, Inc"
+988216,Destiny,37,Male,Master's degree,Nursing,"Patient Care, Medical Terminology",Health care,Internship," Austin, USA",30000," Dropbox, Inc"
+963292,Braxton,22,Female,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Finance,Freelance," Houston, USA",65000," DocuSign, Inc"
+982568,Fernanda,30,Female,Master's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",healthcare,Part-time," Dallas, USA",85000," Okta, Inc"
+976967,Desmond,22,Male,Bachelor's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Technology,Full-time," San Diego, USA",30000, Twilio Inc
+803359,Ariel,18,Female,Bachelor's degree,Computer Science,"C++, Java, Web Development",Agriculture,Full-time," Phoenix, USA",45000," Zoom Video Communications, Inc"
+977913,Theo,51,Male,Master's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Energy,Contract," Atlanta, USA",70000, Atlassian Corporation Plc
+973818,Maeve,30,Male,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Retail,Full-time," Denver, USA",75000," Square, Inc"
+950120,Emmanuel,23,Female,Master's degree,IT,"Network Security, Troubleshooting, Linux",Technology,Contract," Nashville, USA",80000," Etsy, Inc"
+992345,Eloise,29,Male,Associate's degree,Marketing,"Market Research, Strategic Planning",Transportation,Part-time," Portland, USA",40000," PayPal Holdings, Inc"
+984593,Ryder,44,Female,Bachelor's Degree ,Computer Science,"excel, Python, Data Structures",Marketing,Full-time," Calgary, Canada",60000, Visa Inc
+978434,Estrella,39,Male,Master's Degree ,Computer Science,"power bi, Python, Data Structures",Media,Freelance," Ottawa, Canada",20000, Mastercard Incorporated
+986356,Tristan,36,Male,Bachelor's Degree ,Computer Science,"Rstudio, Python, Data Structures",Consulting,Full-time," Quebec City, Canada",50000, American Express Company
+995517,Jayla,19,Female,Master's Degree ,Computer Science,"Rstudio, Python, Data Structures",Technology,Full-time," Guadalajara, Mexico",90000," Expedia Group, Inc"
+991056,Ezekiel,18,Male,Bachelor's Degree ,Computer Science,"Rstudio, Python, Data Structures",Technology,Internship," Cancun, Mexico",90000, Booking Holdings Inc
+977895,Leilani,32,Female,Bachelor's Degree ,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,Technology,Freelance," Tijuana, Mexico",120000," Tripadvisor, Inc"
+972428,Dean,28,Male,Master's Degree ,Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,Technology,Full-time," Edmonton, Canada",110000," Uber Technologies, Inc"
+974310,Daphne,31,Female,Bachelor's degree,Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,Technology,Full-time," Winnipeg, Canada",100000," Lyft, Inc"
+992781,Abraham,18,Male,Master's Degree ,Computer Science,Algorithm design and analysis Object-oriented programming Database management,technology,Contract," Anchorage, USA",130000," Airbnb, Inc"
+978301,Camilla,25,Female,master's degree,Journalism,Investigative reporting Multimedia storytelling Data journalism,healthcare,Full-time," Honolulu, USA",150000, Dell Technologies Inc
+973645,Rafael,22,Male,Master's Degree ,Mechanical Engineering,Material science CAD modeling and simulation Robotics,Construction,Full-time," Tampa, USA",65000, Hewlett Packard Enterprise Company
+978436,Alessandra,24,Female,master's degree,Business Administration,Financial analysis and forecasting Strategic planning Project management,Technology,Contract," Charlotte, USA",85000, Lenovo Group Limited
+989609,Tucker,12,Male,Master's Degree ,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,media,Full-time," Philadelphia, USA",30000, Nokia Corporation
+962674,Dakota,21,Female,"master""s degree",Graphic Design,Typography and layout design Branding and identity design User experience design,construction,Full-time," Las Vegas, USA",45000, Ericsson
+985419,Patrick,24,Male,Bachelor's degree,Political Science,Comparative politics international relations Political theory,fintech,Full-time," Salt Lake City, USA",70000," Huawei Technologies Co, Ltd"
+948100,Lola,42,Female,Master's degree,Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,healthcare,Contract," San Antonio, USA",75000, ZTE Corporation
+960068,Judah,52,Male," bachelor""s degree",physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,Technology,Part-time," Indianapolis, USA",80000, Xiaomi Corporation
+992831,Octavia,32,Female,Associate's degree,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,media,Full-time," Kansas City, USA",40000, Sony Corporation
+993170,Abraham,26,Male,Bachelor's degree,marketing,Market research and analysis Brand management Digital marketing and advertising,healthcare,Freelance," Columbus, USA",60000, Panasonic Corporation
+973869,Amara,34,Female,Master's degree,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,Technology,Full-time," Louisville, USA",20000, Fujifilm Holdings Corporation
+965255,Orlando,31,Female,Bachelor's degree,Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,education,Full-time," Memphis, USA",65000, Canon Inc
+988813,Kira,23,Female,Master's degree,chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,media,Internship," New Orleans, USA",50000, Nikon Corporation
+983098,Jorge,29,Male,Bachelor's degree,social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,education,Freelance," Oklahoma City, USA",90000," GoPro, Inc"
+971500,Sienna,33,Male,Associate's degree,music,Music theory and composition Performance technique and interpretation Music technology and production,Construction,Part-time," Omaha, USA",100000, Garmin Ltd
+809245,Chance,43,Male,Bachelor's degree,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,Manufacturing,Full-time," Pittsburgh, USA",65000," Fitbit, Inc"
+980861,April,21,Female,Associate's degree,economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,media ,Full-time," Raleigh, USA",85000," Sonos, Inc"
+897760,Nolan,21,Male,Master's degree,theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,media ,Contract," Sacramento, USA",30000, Bose Corporation
+981827,Cheyenne,38,Male,Bachelor's degree,Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,media,Full-time," San Jose, USA",45000, Sennheiser Electronic GmbH & Co KG
+983916,Joel,33,Female,Bachelor's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,fintech,Full-time," St Louis, USA",70000, Ultimate Ears
+967931,Aylin,41,Male,Master's degree,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",media,Contract,,75000," Harman International Industries, Incorporated"
+979230,Felix,37,Female," bachelor""s degree",art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,education,Part-time,New York,85000, Pioneer Corporation
+958815,Beatrice,30,Female,Associate's degree,Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,media,Full-time,London,25000, Continental AG
+991459,Allen,18,male,Bachelor's degree,sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,media,Freelance,Chicago,55000, Bosch
+962120,Callie,26,female,Bachelor's degree,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",media,Full-time,Los Angeles,65000, Siemens AG
+754936,Abram,27,female,Master's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,education,Contract,Toronto,55000, General Electric Company
+961186,Cadence,30,male," bachelor""s degree",Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,media ,Part-time,Washington DC,35000, Honeywell International Inc
+978039,Reid,33,female,Bachelor's degree,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,media,Freelance,San Francisco,45000, M Company
+965485,Celeste,35,,Master's degree,English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,media,Full-time,Seattle,80000, Johnson Controls International plc
+972063,Drew,26,,Master's degree,Computer Science,"Java, Python, Data Structures",Manufacturing,Full-time,London,45000, Carrier Global Corporation
+970782,Mabel,28,,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",media,Contract,Miami,55000, United Technologies Corporation
+723566,Kendrick,32,,Bachelor's degree,N/A,"Sales, Customer Service, Communication",education,Part-time,New York,35000, Caterpillar Inc
+983640,Perla,49,,Master's degree,Nursing,"Patient Care, Medical Terminology",Industry Interest,Full-time,Dallas,75000, Deere & Company
+977826,Israel,32,,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Technology,Freelance,Los Angeles,45000, Komatsu Ltd
+960525,Tessa,24,Male+D43B100D2:D61,Bachelor's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Finance,Full-time,Vancouver,40000, Volvo Group
+966147,Clayton,29,Female,Bachelor's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Retail,Full-time,New York,35000, General Motors Company
+980587,Raelynn,41,Male,Master's degree,Computer Science,"C++, Java, Web Development",Healthcare,Internship,London,30000, Ford Motor Company
+975707,Javier,28,Female,Bachelor's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Marketing,Freelance,Chicago,65000, Fiat Chrysler Automobiles NV
+985217,Bianca,38,Male,Master's degree,Culinary Arts,"Cooking, Food Safety, Kitchen Management",Healthcare,Part-time,Los Angeles,85000," Tesla, Inc"
+969404,Phoenix,0,Female,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Engineering,Full-time,Toronto,30000, Toyota Motor Corporation
+982991,Gia,31,Male,Bachelor's degree,IT,"Network Security, Troubleshooting, Linux",Technology,Full-time,Houston,45000," Honda Motor Co, Ltd"
+987125,Winston,25,Female,Master's degree,Marketing,"Market Research, Strategic Planning",Architecture,Contract,Miami,70000," Nissan Motor Co, Ltd"
+980613,Lorelei,25,Male,Bachelor's degree,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Hospitality,Full-time,San Francisco,75000, Hyundai Motor Company
+966434,Beau,40,Female,Master's degree,Computer Science,"Java, Python, Data Structures",Finance,Contract,Austin,80000, Kia Motors Corporation
+967841,Johanna,21,Female,Associate's degree,Business,"Finance, Accounting, Microsoft Excel",Technology,Part-time,Boston,40000, Volkswagen AG
+990165,Forrest,36,Male,Bachelor's Degree ,N/A,"Sales, Customer Service, Communication",Marketing,Full-time,New York,60000, BMW AG
+992461,Amalia,33,Female,Master's Degree ,Nursing,"Patient Care, Medical Terminology",Environmental Sc.,Freelance,London,20000, Daimler AG
+987765,Matteo,25,Male,Bachelor's Degree ,Marketing,"Digital Marketing, Social Media",Technology,Full-time,Chicago,50000, Audi AG
+981044,Miracle,44,Male,Master's Degree ,Engineering,"MATLAB, SolidWorks, CAD",Finance,Full-time,Los Angeles,90000, Porsche AG
+973876,Sullivan,25,Female,Bachelor's Degree ,Psychology,"Counseling, Psychotherapy",Retail,Internship,Toronto,90000, The Boeing Company
+971975,Arya,20,Male,Bachelor's Degree ,N/A,"Hospitality, Cooking, Time Management",Healthcare,Freelance,Washington DC,120000, Lockheed Martin Corporation
+960523,Colt,20,Female,Master's Degree ,Graphic Design,"Adobe Photoshop, Illustrator",Marketing,Full-time,San Francisco,110000, Northrop Grumman Corporation
+956395,Camryn,30,Male,Bachelor's degree,Education,"Curriculum Design, Teaching",Engineering,Full-time,Seattle,100000, Raytheon Technologies Corporation
+984057,Abraham,36,Male,Master's Degree ,Marketing,"Marketing Analytics, Market Research, Advertising",Healthcare,Contract,London,130000, General Dynamics Corporation
+962540,Lana,26,Female,master's degree,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Hospitality,Full-time,Miami,150000, BAE Systems plc
+960711,Kyrie,22,Male,Master's Degree ,Psychology,"Counseling, Research Methods, Communication",Creative,Full-time,New York,30000, Airbus SE
+971889,Calliope,55,Female,master's degree,Finance,"Financial Analysis, Investment Management",Education,Contract,Dallas,45000, Rolls-Royce Holdings plc
+843469,Ronan,32,Male,Master's Degree ,Journalism,"Writing, Editing, Social Media Management",Marketing,Full-time,Miami,70000, Safran SA
+974276,Felicity,24,Female,"master""s degree",Civil Engineering,"AutoCAD, Construction Management, Project Planning",Manufacturing,Full-time,San Francisco,75000, Thales Group
+977884,Jax,43,Male,Bachelor's degree,Biology,"Lab Techniques, Research Methodology, Data Analysis",Healthcare,Full-time,Austin,80000, Leonardo SpA
+961022,Amiya,27,Female,Master's degree,Economics,"Econometrics, Microeconomics, Statistical Analysis",Finance,Contract,Boston,40000, The Walt Disney Company
+995878,Victor,29,Male," bachelor""s degree",Education,"Curriculum Design, Teaching, Classroom Management",Media,Part-time,New York,60000, Time Warner Inc
+983064,Kaliyah,27,Female,Associate's degree,Public Health,"Epidemiology, Biostatistics, Health Policy",Construction,Full-time,London,20000, ViacomCBS Inc
+987705,Nico,48,Male,Bachelor's degree,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Science,Freelance,Chicago,50000," Netflix, Inc"
+988949,Bristol,29,Female,Master's degree,Environmental Science,"GIS, Fieldwork, Environmental Policy",Consulting,Full-time,Los Angeles,90000," Amazoncom, Inc"
+978533,Luca,39,Male,Bachelor's degree,International Business,"Cross-cultural Communication, Global Marketing",Education,Full-time,Toronto,90000, eBay Inc
+839615,Carolyn,39,Female,Master's degree,Computer Science,"Java, Python, Data Structures",Healthcare,Internship,Washington DC,120000, Alibaba Group Holding Limited
+983886,Maximo,40,Male,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",Design,Freelance,Seattle,110000," JDcom, Inc"
+957974,Sasha,35,Female,Associate's degree,health,"medicals, Customer Service, Communication",Environment,Part-time,London,100000," Baidu, Inc"
+786952,Holden,23,Male,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",Business,Full-time,Miami,130000, Alphabet Inc
+987795,Annika,33,Female,Associate's degree,Marketing,"Digital Marketing, Social Media",Health care,Full-time, New York,150000," Facebook, Inc"
+981148,Sylas,19,Female,Master's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Finance,Contract, California,65000," Twitter, Inc"
+985460,Athena,33,Female,Bachelor's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",healthcare,Full-time, Texas,85000, Tencent Holdings Limited
+977984,Trenton,36,Male,Bachelor's degree,Computer Science,"C++, Java, Web Development",Technology,Full-time, Florida,30000, IBM Corporation
+966326,Marley,26,Male,Master's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Agriculture,Contract, Ohio,45000, Hewlett Packard Enterprise Company
+992478,Keith,36,Male," bachelor""s degree",Accounting,"Tax Preparation, Financial Reporting, Excel",Energy,Part-time, Oregon,70000, Dell Technologies Inc
+980500,Leighton,22,Female,Associate's degree,IT,"Network Security, Troubleshooting, Linux",Retail,Full-time, Colorado,75000, Intel Corporation
+182833,Lincoln,21,Male,Bachelor's degree,Marketing,"Market Research, Strategic Planning",Technology,Freelance, Georgia,80000," Advanced Micro Devices, Inc"
+979514,Fiona,26,Male,Bachelor's degree,Computer Science,"excel, Python, Data Structures",Transportation,Full-time, Michigan,40000, NVIDIA Corporation
+962209,Jamie,35,Female,Master's degree,Computer Science,"power bi, Python, Data Structures",Marketing,Contract, Arizona,60000, Qualcomm Incorporated
+983636,Paloma,19,Male," bachelor""s degree",Computer Science,"Rstudio, Python, Data Structures",Media,Part-time," Alberta, Canada",20000, Broadcom Inc
+923014,Calvin,19,Female,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Consulting,Freelance," Sindh, Pakistan",65000," Cisco Systems, Inc"
+963457,Nylah,51,Female,Master's degree,Computer Science,"Rstudio, Python, Data Structures",Technology,Full-time," Sao Paulo, Brazil",50000," Juniper Networks, Inc"
+982971,Rowan,37,male,Master's degree,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,Technology,Full-time," Yucatan, Mexico",90000, Ericsson AB
+821735,Carmen,38,female,Bachelor's degree,Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,Technology,Contract," Eastern Cape, South Africa",100000, Nokia Corporation
+972476,Darrell,26,female,Bachelor's degree,Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,Technology,Part-time," Hubei, China",65000, LG Electronics Inc
+968644,Journey,34,male,Master's degree,Computer Science,Algorithm design and analysis Object-oriented programming Database management,Technology,Full-time," Lombardy, Italy",85000," Samsung Electronics Co, Ltd"
+968727,Arlo,22,female,Bachelor's degree,Journalism,Investigative reporting Multimedia storytelling Data journalism,technology,Freelance," Ogun, Nigeria",30000, Sony Corporation
+964342,Demi,41,,Bachelor's degree,Mechanical Engineering,Material science CAD modeling and simulation Robotics,healthcare,Full-time," Odisha, India",45000, Canon Inc
+966580,Griffin,32,,Bachelor's degree,Business Administration,Financial analysis and forecasting Strategic planning Project management,Construction,Full-time," Canterbury, New Zealand",70000, Fujifilm Holdings Corporation
+993647,Anaya,22,,Master's degree,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,Technology,Internship," Paris, France",75000, Panasonic Corporation
+991625,Quentin,28,,Bachelor's degree,Graphic Design,Typography and layout design Branding and identity design User experience design,media,Freelance," London, United Kingdom",85000," Konica Minolta, Inc"
+962144,Gloria,45,,Master's degree,Political Science,Comparative politics international relations Political theory,construction,Part-time," Berlin, Germany",25000, Xerox Holdings Corporation
+914435,Byron,33,,Bachelor's degree,Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,fintech,Full-time," Madrid, Spain",55000, Seagate Technology plc
+762478,Maren,43,Male+D43B100D2:D62,Bachelor's degree,physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,healthcare,Full-time," Rome, Italy",65000, Western Digital Corporation
+969845,Briggs,43,Female,Master's degree,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,Technology,Contract," Moscow, Russia",55000," Applied Materials, Inc"
+947060,Aliza,26,Male,Bachelor's degree,marketing,Market research and analysis Brand management Digital marketing and advertising,media,Full-time," Amsterdam, Netherlands",35000, Lam Research Corporation
+987727,Enoch,42,Female,Master's degree,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,healthcare,Contract," Vienna, Austria",45000, ASML Holding NV
+978403,Kenzie,41,Male,Associate's degree,Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,Technology,Part-time," Athens, Greece",80000, Texas Instruments Incorporated
+992971,Clay,25,Female,Bachelor's Degree ,chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,education,Full-time," Lisbon, Portugal",45000," Micron Technology, Inc"
+952199,Alma,23,Male,Master's Degree ,social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,media,Freelance," Copenhagen, Denmark",55000," Analog Devices, Inc"
+998103,Finnley,33,Female,Bachelor's Degree ,music,Music theory and composition Performance technique and interpretation Music technology and production,education,Full-time," Brussels, Belgium",35000," Maxim Integrated Products, Inc"
+972196,Salma,24,Male,Master's Degree ,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,Construction,Full-time," Helsinki, Finland",75000, NXP Semiconductors NV
+991426,Adriel,31,Female,Bachelor's Degree ,economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,Manufacturing,Internship," Oslo, Norway",45000, ON Semiconductor Corporation
+15334,Katalina,18,Female,Bachelor's Degree ,theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,media ,Freelance," Stockholm, Sweden",40000, Renesas Electronics Corporation
+958343,Julien,37,Male,Master's Degree ,Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,media ,Full-time," Zurich, Switzerland",35000, STMicroelectronics NV
+990540,Millie,31,Female,Bachelor's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Full-time," Warsaw, Poland",30000, Schneider Electric SE
+966488,Ahmad,28,Male,Master's Degree ,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",fintech,Contract," Budapest, Hungary",65000, ABB Ltd
+589,Emmalyn,31,Male,master's degree,art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,media,Full-time," Dubrovnik, Croatia",85000, Emerson Electric Co
+996560,Ledger,38,Female,Master's Degree ,Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,education,Full-time," Reykjavik, Iceland",30000, Honeywell Automation India Ltd
+982978,Samara,35,Male,master's degree,sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,media,Contract," Edinburgh, United Kingdom",45000," Rockwell Automation, Inc"
+978416,Forrest,30,Female,Master's Degree ,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",media,Full-time," Dublin, Ireland",70000, Siemens AG
+963052,Kaylani,30,Male,"master""s degree",Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Full-time," Prague, Czech Republic",75000, Yokogawa Electric Corporation
+980420,Kaison,28,Male,Bachelor's degree,Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,education,Full-time," Tallinn, Estonia",80000, Bombardier Inc
+993944,Danna,31,Female,Master's degree,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,media ,Contract," Riga, Latvia",40000, General Electric Company
+981263,Maximilian,27,Male," bachelor""s degree",English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,media,Part-time," Vilnius, Lithuania",60000, Airbus SE
+981167,Itzel,23,Female,Associate's degree,Computer Science,"Java, Python, Data Structures",media,Full-time," Sofia, Bulgaria",20000, Boeing Co
+966174,Titan,32,Male,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",Manufacturing,Freelance," Bucharest, Romania",50000, Lockheed Martin Corporation
+994049,Thalia,28,Female,Master's degree,N/A,"Sales, Customer Service, Communication",media,Full-time," Belgrade, Serbia",90000, BAE Systems plc
+980116,Adan,24,Male,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",education,Full-time," Sarajevo, Bosnia and Herzegovina",90000," Huntington Ingalls Industries, Inc"
+962640,Sariyah,35,Female,Master's degree,Marketing,"Digital Marketing, Social Media",Industry Interest,Internship," Bratislava, Slovakia",120000, CACI International Inc
+958557,Lance,24,Male,Bachelor's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Technology,Freelance," Ljubljana, Slovenia",110000," Leidos Holdings, Inc"
+967709,Elsie,35,Female,Associate's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Finance,Part-time," Zagreb, Croatia",100000, Booz Allen Hamilton Holding Corporation
+733649,Callahan,46,Male,Bachelor's degree,Computer Science,"C++, Java, Web Development",Retail,Full-time," Marseille, France",130000,continue
+988800,Persephone,24,Female,Associate's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Healthcare,Full-time," Lyon, France",150000, Accenture plc
+978396,Crosby,27,Male,Master's degree,Culinary Arts,"Cooking, Food Safety, Kitchen Management",Marketing,Contract," Munich, Germany",65000, Capgemini SE
+984866,Lillianna,33,Female,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Healthcare,Full-time," Hamburg, Germany",85000, Tata Consultancy Services Limited
+971961,Davion,49,Male,Bachelor's degree,IT,"Network Security, Troubleshooting, Linux",Engineering,Full-time," Cologne, Germany",30000, Infosys Limited
+971589,Heavenly,38,Female,Master's degree,Marketing,"Market Research, Strategic Planning",Technology,Contract," Frankfurt, Germany",45000, Wipro Limited
+972396,Brixton,18,Male," bachelor""s degree",Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Architecture,Part-time," Dresden, Germany",70000, Cognizant Technology Solutions Corporation
+964717,Analia,0,Female,Associate's degree,Computer Science,"Java, Python, Data Structures",Hospitality,Full-time," Salzburg, Austria",75000, IBM Corporation
+977640,Nash,21,Female,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",Finance,Freelance," Krakow, Poland",80000, Hewlett Packard Enterprise Company
+977309,Rayna,35,Female,Bachelor's degree,N/A,"Sales, Customer Service, Communication",Technology,Full-time," Gdansk, Poland",40000, Oracle Corporation
+980460,Jovanny,33,Male,Master's degree,Nursing,"Patient Care, Medical Terminology",Marketing,Contract," Valencia, Spain",60000, SAP SE
+961434,Louisa,30,Male," bachelor""s degree",Marketing,"Digital Marketing, Social Media",Environmental Sc.,Part-time," Malaga, Spain",20000," Salesforcecom, Inc"
+994246,Ahmed,23,Male,Bachelor's degree,Engineering,"MATLAB, SolidWorks, CAD",Technology,Freelance," Porto, Portugal",65000, Microsoft Corporation
+917791,Bridget,29,Female,Master's degree,Psychology,"Counseling, Psychotherapy",Finance,Full-time," Krakow, Poland",50000," Amazon Web Services, Inc"
+985867,Landon,23,Male,Master's degree,N/A,"Hospitality, Cooking, Time Management",Retail,Full-time," Saint Petersburg, Russia",90000, Alphabet Inc
+972890,Aubrielle,32,Male,Bachelor's degree,Graphic Design,"Adobe Photoshop, Illustrator",Healthcare,Contract," Geneva, Switzerland",100000," Facebook, Inc"
+979591,Arnav,23,Female,Bachelor's degree,Education,"Curriculum Design, Teaching",Marketing,Part-time, Monaco,65000," Twitter, Inc"
+84909,Ingrid,52,Male,Master's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Engineering,Full-time," New York City, USA",85000, Tencent Holdings Limited
+968176,Alfonso,24,Female,Bachelor's degree,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Healthcare,Freelance," Los Angeles, USA",30000, Alibaba Group Holding Limited
+987090,Sanaa,38,Female,Bachelor's degree,Psychology,"Counseling, Research Methods, Communication",Hospitality,Full-time," Chicago, USA",45000," Baidu, Inc"
+647991,Darian,22,male,Bachelor's degree,Finance,"Financial Analysis, Investment Management",Creative,Full-time," Toronto, Canada",70000," JDcom, Inc"
+962546,Aisha,37,female,Master's degree,Journalism,"Writing, Editing, Social Media Management",Education,Internship," Montreal, Canada",75000," Expedia Group, Inc"
+977185,Keenan,18,female,Bachelor's degree,Civil Engineering,"AutoCAD, Construction Management, Project Planning",Marketing,Freelance," Vancouver, Canada",85000," Uber Technologies, Inc"
+952925,Evalyn,27,male,Master's degree,Biology,"Lab Techniques, Research Methodology, Data Analysis",Manufacturing,Part-time," Mexico City, Mexico",25000," Airbnb, Inc"
+979541,Santana,22,female,Bachelor's degree,Economics,"Econometrics, Microeconomics, Statistical Analysis",Healthcare,Full-time," Miami, USA",55000, Booking Holdings Inc
+991233,Milani,34,,Bachelor's degree,Education,"Curriculum Design, Teaching, Classroom Management",Finance,Full-time," San Francisco, USA",65000," Tripadvisor, Inc"
+959774,Phoenix,21,,Master's degree,Public Health,"Epidemiology, Biostatistics, Health Policy",Media,Contract," Washington DC, USA",55000, The Priceline Group Inc
+986276,Kallie,26,,Bachelor's degree,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Construction,Full-time," Boston, USA",35000, Agoda Company Pte Ltd
+974994,Keegan,42,,Master's degree,Environmental Science,"GIS, Fieldwork, Environmental Policy",Science,Contract," Seattle, USA",45000," Rakuten, Inc"
+982281,Lina,36,,Associate's degree,International Business,"Cross-cultural Communication, Global Marketing",Consulting,Part-time," Austin, USA",80000, Yahoo! Japan Corporation
+969911,Kian,30,,Bachelor's Degree ,Computer Science,"Java, Python, Data Structures",Education,Full-time," Houston, USA",45000," Rakuten Mobile, Inc"
+994633,Yara,32,Male+D43B100D2:D63,Master's Degree ,Business,"Finance, Accounting, Microsoft Excel",Healthcare,Freelance," Dallas, USA",55000, AT&T Inc
+931752,Bently,31,Female,Bachelor's Degree ,health,"medicals, Customer Service, Communication",Design,Full-time," San Diego, USA",35000, Verizon Communications Inc
+966136,Ensley,32,Male,Master's Degree ,Nursing,"Patient Care, Medical Terminology",Environment,Full-time," Phoenix, USA",75000, Comcast Corporation
+951201,Cory,36,Female,Bachelor's Degree ,Marketing,"Digital Marketing, Social Media",Business,Internship," Atlanta, USA",45000," Charter Communications, Inc"
+976424,Brynn,40,Male,Bachelor's Degree ,Public Health,"Epidemiology, Biostatistics, Data Analysis",Health care,Freelance," Denver, USA",40000, Vodafone Group plc
+965490,Jamar,29,Female,Master's Degree ,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Finance,Full-time," Nashville, USA",35000, Orange SA
+969409,Alayah,23,Male,Bachelor's degree,Computer Science,"C++, Java, Web Development",healthcare,Full-time," Portland, USA",30000, Deutsche Telekom AG
+964631,Jairo,24,Female,Master's Degree ,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Technology,Contract," Calgary, Canada",65000, Telefonica SA
+964494,Elora,46,Male,master's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Agriculture,Full-time," Ottawa, Canada",85000, SoftBank Group Corp
+550403,Ray,32,Female,Master's Degree ,IT,"Network Security, Troubleshooting, Linux",Energy,Full-time," Quebec City, Canada",30000, Xiaomi Corporation
+974225,Alianna,22,Female,master's degree,Marketing,"Market Research, Strategic Planning",Retail,Contract," Guadalajara, Mexico",45000, Lenovo Group Limited
+962597,Mustafa,52,Male,Master's Degree ,Computer Science,"excel, Python, Data Structures",Technology,Full-time," Cancun, Mexico",70000, Dell Technologies Inc
+972745,Averie,20,Female,"master""s degree",Computer Science,"power bi, Python, Data Structures",Transportation,Full-time," Tijuana, Mexico",75000, HP Inc
+974540,Jamir,40,Male,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Marketing,Full-time," Edmonton, Canada",80000, Canon Inc
+981247,Treasure,33,Male,Master's degree,Computer Science,"Rstudio, Python, Data Structures",Media,Contract," Winnipeg, Canada",40000, Fujitsu Limited
+983984,Memphis,40,Female," bachelor""s degree",Computer Science,"Rstudio, Python, Data Structures",Consulting,Part-time," Anchorage, USA",60000, NEC Corporation
+961143,Raylee,35,Male,Associate's degree,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,Technology,Full-time," Honolulu, USA",20000," Ricoh Company, Ltd"
+993717,Emery,23,Female,Bachelor's degree,Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,Technology,Freelance," Tampa, USA",50000, Sony Corporation
+990556,Maryam,28,Male,Master's degree,Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,Technology,Full-time," Charlotte, USA",90000," Konica Minolta, Inc"
+981928,Brenton,29,Male,Bachelor's degree,Computer Science,Algorithm design and analysis Object-oriented programming Database management,Technology,Full-time," Philadelphia, USA",90000, Xerox Holdings Corporation
+967554,Emilee,51,Female,Master's degree,Journalism,Investigative reporting Multimedia storytelling Data journalism,Technology,Internship," Las Vegas, USA",120000,apple
+963066,Davin,36,Male,Bachelor's degree,Mechanical Engineering,Material science CAD modeling and simulation Robotics,technology,Freelance," Salt Lake City, USA",110000,samsung
+976126,Karlie,32,Female,Associate's degree,Business Administration,Financial analysis and forecasting Strategic planning Project management,healthcare,Part-time," San Antonio, USA",100000,google
+965344,Emory,36,Male,Bachelor's degree,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,Construction,Full-time," Indianapolis, USA",130000,merck & co
+171115,Maxine,29,Female,Associate's degree,Graphic Design,Typography and layout design Branding and identity design User experience design,Technology,Full-time," Kansas City, USA",150000,ABB
+974426,Cason,29,Male,Master's degree,Political Science,Comparative politics international relations Political theory,media,Contract," Columbus, USA",65000,johnson &johnson
+979260,Anais,32,Female,Bachelor's degree,Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,construction,Full-time," Louisville, USA",85000,bechtel construction
+976672,Jaycob,19,Male,Bachelor's degree,physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,fintech,Full-time," Memphis, USA",30000,Microsoft
+950634,Kenna,25,Female,Master's degree,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,healthcare,Contract," New Orleans, USA",45000,bechtel construction
+835673,Bodhi,42,Male," bachelor""s degree",marketing,Market research and analysis Brand management Digital marketing and advertising,Technology,Part-time," Oklahoma City, USA",70000,merck & co
+967892,Henley,34,Female,Associate's degree,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,media,Full-time," Omaha, USA",75000,apple
+959058,Niko,25,Male,Bachelor's degree,Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,healthcare,Freelance," Pittsburgh, USA",80000,samsung
+983827,Kaisley,39,Female,Bachelor's degree,chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,Technology,Full-time," Raleigh, USA",40000,google
+977582,Arnav,37,Male,Master's degree,social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,education,Contract," Sacramento, USA",60000,turner construction
+980029,Landry,25,Female," bachelor""s degree",music,Music theory and composition Performance technique and interpretation Music technology and production,media,Part-time," San Jose, USA",20000,apple
+930491,Shaun,22,Male,Bachelor's degree,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,education,Freelance," St Louis, USA",65000,samsung
+969937,Rayne,21,Female,Master's degree,economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,Construction,Full-time,,50000,google
+965225,Camilo,22,Female,Master's degree,theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,Manufacturing,Full-time,New York,90000,johnson &johnson
+975848,Alora,30,Female,Bachelor's degree,Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,media ,Contract,London,100000,google
+963428,Dominique,32,Male,Bachelor's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media ,Part-time,Chicago,65000,ABB
+201139,Thalia,25,Male,Master's degree,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",media,Full-time,Los Angeles,85000,merck & co
+989282,Braden,25,Male,Bachelor's degree,art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,fintech,Freelance,Toronto,30000,terrabog professional services 
+934677,Mavis,23,Female,Bachelor's degree,Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,media,Full-time,Washington DC,45000,amazon
+988708,Brodie,47,Male,Bachelor's degree,sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,education,Full-time,San Francisco,70000,terrabog professional services 
+965298,Liv,23,Male,Master's degree,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",media,Internship,Seattle,75000,samsung
+963331,Camron,43,Female,Bachelor's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Freelance,London,85000,lockheed martin engineering 
+965008,Jolene,23,Male,Master's degree,Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,media,Part-time,Miami,25000,merck & co
+957668,Trent,43,Female,Bachelor's degree,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,education,Full-time,New York,55000,google
+695413,Celine,40,Female,Bachelor's degree,English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,media ,Full-time,Dallas,65000,terrabog professional services 
+980600,Alexzander,45,male,Master's degree,Computer Science,"Java, Python, Data Structures",media,Contract,Los Angeles,55000,china state construction
+982609,Casey,26,female,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",media,Full-time,Vancouver,35000,terrabog professional services 
+993273,Giovanny,45,female,Master's degree,N/A,"Sales, Customer Service, Communication",Manufacturing,Contract,New York,45000, Amazon
+990563,Emmalee,22,male,Associate's degree,Nursing,"Patient Care, Medical Terminology",media,Part-time,London,80000, Apple
+382,Kase,39,female,Bachelor's Degree ,Marketing,"Digital Marketing, Social Media",education,Full-time,Chicago,45000, Microsoft
+977746,Tatiana,0,,Master's Degree ,Public Health,"Epidemiology, Biostatistics, Data Analysis",Industry Interest,Freelance,Los Angeles,55000, Google
+975464,Donte,29,,Bachelor's Degree ,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Technology,Full-time,Toronto,35000, Facebook
+958968,Cataleya,20,,Master's Degree ,Computer Science,"C++, Java, Web Development",Finance,Full-time,Houston,75000, Alibaba Group
+958991,Jabari,44,,Bachelor's Degree ,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Retail,Internship,Miami,45000,johnson &johnson
+978832,Marianna,18,,Bachelor's Degree ,Culinary Arts,"Cooking, Food Safety, Kitchen Management",Healthcare,Freelance,San Francisco,40000,oracle
+963708,Steve,21,,Master's Degree ,Accounting,"Tax Preparation, Financial Reporting, Excel",Marketing,Full-time,Austin,35000,merck & co
+960118,Kinley,32,Male+D43B100D2:D64,Bachelor's degree,IT,"Network Security, Troubleshooting, Linux",Healthcare,Full-time,Boston,30000,merck & co
+584463,Kylan,24,Female,Master's Degree ,Marketing,"Market Research, Strategic Planning",Engineering,Contract,New York,65000, Amazon
+958895,Kyndall,53,Male,master's degree,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Technology,Full-time,London,85000, Apple
+984384,Clarence,35,Female,Master's Degree ,Computer Science,"Java, Python, Data Structures",Architecture,Full-time,Chicago,30000, Microsoft
+771627,Rhea,23,Male,master's degree,Business,"Finance, Accounting, Microsoft Excel",Hospitality,Contract,Los Angeles,45000, Google
+974262,Koen,34,Female,Master's Degree ,N/A,"Sales, Customer Service, Communication",Finance,Full-time,Toronto,70000, Facebook
+992208,Mae,21,Male,"master""s degree",Nursing,"Patient Care, Medical Terminology",Technology,Full-time,Washington DC,75000, Alibaba Group
+989380,Tyrell,46,Female,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Marketing,Full-time,San Francisco,80000, Tencent Holdings
+981596,Winter,30,Male,Master's degree,Engineering,"MATLAB, SolidWorks, CAD",Environmental Sc.,Contract,Seattle,40000, Samsung Electronics
+37605,Valentin,24,Female," bachelor""s degree",Psychology,"Counseling, Psychotherapy",Technology,Part-time,London,60000, Intel
+991299,Emalyn,43,Female,Associate's degree,N/A,"Hospitality, Cooking, Time Management",Finance,Full-time,Miami,20000, IBM
+988648,Stephon,30,Male,Bachelor's degree,Graphic Design,"Adobe Photoshop, Illustrator",Retail,Freelance,New York,50000, Cisco Systems
+959968,Maylee,31,Female,Master's degree,Education,"Curriculum Design, Teaching",Healthcare,Full-time,Dallas,90000, Oracle
+976169,Kaidence,24,Male,Bachelor's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Marketing,Full-time,Miami,90000, Dell Technologies
+699058,Hadassah,34,Male,Master's degree,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Engineering,Internship,San Francisco,120000, HP Inc
+953406,Dangelo,25,Female,Bachelor's degree,Psychology,"Counseling, Research Methods, Communication",Healthcare,Freelance,Austin,110000, Sony
+974401,Zendaya,45,Male,Associate's degree,Finance,"Financial Analysis, Investment Management",Hospitality,Part-time,Boston,100000, Nokia
+967951,Darryl,40,Female,Bachelor's degree,Journalism,"Writing, Editing, Social Media Management",Creative,Full-time,New York,130000, Netflix
+963339,Kairi,41,Male,Associate's degree,Civil Engineering,"AutoCAD, Construction Management, Project Planning",Education,Full-time,London,150000, Uber Technologies
+983873,Tariq,25,Male,Master's degree,Biology,"Lab Techniques, Research Methodology, Data Analysis",Marketing,Contract,Chicago,65000, Airbnb
+994051,Kynlee,41,Female,Bachelor's degree,Economics,"Econometrics, Microeconomics, Statistical Analysis",Manufacturing,Full-time,Los Angeles,85000, Lyft
+959998,Jakob,31,Male,Bachelor's degree,Education,"Curriculum Design, Teaching, Classroom Management",Healthcare,Full-time,Toronto,30000, Tesla
+962485,Abrielle,23,Female,Master's degree,Public Health,"Epidemiology, Biostatistics, Health Policy",Finance,Contract,Washington DC,45000, Twitter
+987367,Deangelo,30,Male," bachelor""s degree",Graphic Design,"Adobe Creative Suite, Illustration, Typography",Media,Part-time,Seattle,70000, LinkedIn
+973131,Cambria,22,Female,Associate's degree,Environmental Science,"GIS, Fieldwork, Environmental Policy",Construction,Full-time,London,75000, Square
+992844,,52,Male,Bachelor's degree,International Business,"Cross-cultural Communication, Global Marketing",Science,Freelance,Miami,80000, Dropbox
+977583,,42,Female,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Consulting,Full-time, New York,40000, Box
+972770,Mikael,31,Male,Master's degree,Business,"Finance, Accounting, Microsoft Excel",Education,Contract, California,60000, Atlassian
+979501,Fallon,18,Female," bachelor""s degree",health,"medicals, Customer Service, Communication",Healthcare,Part-time, Texas,20000, Slack Technologies
+573062,Darien,26,Male,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",Design,Freelance, Florida,65000, Zoom Video Communications
+988210,Lilia,0,Female,Master's degree,Marketing,"Digital Marketing, Social Media",Environment,Full-time, Ohio,50000, DocuSign
+968065,Rashawn,40,Male,Master's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Business,Full-time, Oregon,90000, Okta
+993821,Lark,46,Female,Bachelor's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Health care,Contract, Colorado,100000, Twilio
+966343,Kael,33,Male,Bachelor's degree,Computer Science,"C++, Java, Web Development",Finance,Part-time, Georgia,65000, Zscaler
+993607,Myka,38,Female,Master's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",healthcare,Full-time, Michigan,85000, CrowdStrike Holdings
+986735,Gael,28,Male,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Technology,Freelance, Arizona,30000, Fortinet
+982958,Antonia,21,Female,Bachelor's degree,IT,"Network Security, Troubleshooting, Linux",Agriculture,Full-time," Alberta, Canada",45000, Palo Alto Networks
+984232,Sincere,27,Female,Bachelor's degree,Marketing,"Market Research, Strategic Planning",Energy,Full-time," Sindh, Pakistan",70000, CyberArk Software
+960869,Clio,43,Female,Master's degree,Computer Science,"excel, Python, Data Structures",Retail,Internship," Sao Paulo, Brazil",75000, Check Point Software Technologies
+961361,Jakobe,44,Male,Bachelor's degree,Computer Science,"power bi, Python, Data Structures",Technology,Freelance," Yucatan, Mexico",85000, VMware
+994202,Siena,42,Male,Master's degree,Computer Science,"Rstudio, Python, Data Structures",Transportation,Part-time," Eastern Cape, South Africa",25000, Red Hat
+986354,Jaziel,30,Male,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Marketing,Full-time," Hubei, China",55000, ServiceNow
+979450,Calliope,33,Female,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Media,Full-time," Lombardy, Italy",65000, Salesforcecom
+966882,Keanu,21,Male,Master's degree,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,Consulting,Contract," Ogun, Nigeria",55000, Adobe
+966818,Mariam,38,Male,Bachelor's degree,Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,Technology,Full-time," Odisha, India",35000, Autodesk
+963046,Davina,18,Female,Master's degree,Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,Technology,Contract," Canterbury, New Zealand",45000, Ansys
+986092,Bronson,26,Male,Associate's degree,Computer Science,Algorithm design and analysis Object-oriented programming Database management,Technology,Part-time," Paris, France",80000, Splunk
+966529,Ayana,26,Female,Bachelor's Degree ,Journalism,Investigative reporting Multimedia storytelling Data journalism,Technology,Full-time," London, United Kingdom",45000, Elastic
+995090,Elyse,36,Female,Master's Degree ,Mechanical Engineering,Material science CAD modeling and simulation Robotics,Technology,Freelance," Berlin, Germany",55000, Cloudflare
+993975,Thaddeus,35,male,Bachelor's Degree ,Business Administration,Financial analysis and forecasting Strategic planning Project management,technology,Full-time," Madrid, Spain",35000, Snowflake
+656130,Lilia,27,female,Master's Degree ,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,healthcare,Full-time," Rome, Italy",75000, Datadog
+979332,Jovanni,22,female,Bachelor's Degree ,Graphic Design,Typography and layout design Branding and identity design User experience design,Construction,Internship," Moscow, Russia",45000, Sumo Logic
+898970,Jazmin,22,male,Bachelor's Degree ,Political Science,Comparative politics international relations Political theory,Technology,Freelance," Amsterdam, Netherlands",40000, MongoDB
+780698,Jaxxon,25,female,Master's Degree ,Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,media,Full-time," Vienna, Austria",35000, UiPath
+981515,Zora,49,,Bachelor's degree,physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,construction,Full-time," Athens, Greece",30000, Roblox
+984525,Emilio,36,,Master's Degree ,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,fintech,Contract," Lisbon, Portugal",65000, Epic Games
+987688,Adele,22,,master's degree,marketing,Market research and analysis Brand management Digital marketing and advertising,healthcare,Full-time," Copenhagen, Denmark",85000, Unity Technologies
+967325,Luciano,30,,Master's Degree ,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,Technology,Full-time," Brussels, Belgium",30000, Nintendo
+993613,Emme,42,,master's degree,Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,media,Contract," Helsinki, Finland",45000, Activision Blizzard
+971209,Foster,22,,Master's Degree ,chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,healthcare,Full-time," Oslo, Norway",70000, Electronic Arts
+988062,Elsie,34,Male+D43B100D2:D65,"master""s degree",social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,Technology,Full-time," Stockholm, Sweden",75000, Take-Two Interactive Software
+977681,Konnor,37,Female,Bachelor's degree,music,Music theory and composition Performance technique and interpretation Music technology and production,education,Full-time," Zurich, Switzerland",80000, Shopify
+993942,Tamia,29,Male,Master's degree,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,media,Contract," Warsaw, Poland",40000, Square Enix Holdings
+969259,Dashawn,22,Female," bachelor""s degree",economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,education,Part-time," Budapest, Hungary",60000, Rakuten
+982669,Karys,25,Male,Associate's degree,theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,Construction,Full-time," Dubrovnik, Croatia",20000, MercadoLibre
+988837,Yahir,36,Female,Bachelor's degree,Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,Manufacturing,Freelance," Reykjavik, Iceland",50000, Sea Limited
+992483,Malani,37,Male,Master's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media ,Full-time," Edinburgh, United Kingdom",90000, Zendesk
+995674,Ajay,18,Female,Bachelor's degree,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",media ,Full-time," Dublin, Ireland",90000, Atlassian
+971995,Kailyn,36,Male,Master's degree,art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,media,Internship," Prague, Czech Republic",120000, Dropbox
+970779,Cortez,30,Female,Bachelor's degree,Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,fintech,Freelance," Tallinn, Estonia",110000, HubSpot
+983434,Azalea,23,Female,Associate's degree,sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,media,Part-time," Riga, Latvia",100000, Smartsheet
+712362,Grey,35,Male,Bachelor's degree,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",education,Full-time," Vilnius, Lithuania",130000, DocuSign
+965357,Aniston,48,Female,Associate's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Full-time," Sofia, Bulgaria",150000, Square
+989621,Darian,41,Male,Master's degree,Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,media,Contract," Bucharest, Romania",65000, Splunk
+965843,Jayceon,39,Male,Bachelor's degree,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,media,Full-time," Belgrade, Serbia",85000, RingCentral
+964465,Kallie,37,Female,Bachelor's degree,English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,education,Full-time," Sarajevo, Bosnia and Herzegovina",30000, Cloudera
+992279,Jagger,21,Male,Master's degree,Computer Science,"Java, Python, Data Structures",media ,Contract," Bratislava, Slovakia",45000, PagerDuty
+978777,Miya,24,Female," bachelor""s degree",Business,"Finance, Accounting, Microsoft Excel",media,Part-time," Ljubljana, Slovenia",70000, Asana
+979303,Kian,36,Male,Associate's degree,N/A,"Sales, Customer Service, Communication",media,Full-time," Zagreb, Croatia",75000, Dynatrace
+960820,Antonella,38,Male,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",Manufacturing,Freelance," Marseille, France",80000, MongoDB
+992538,Devan,41,Female,Bachelor's degree,Marketing,"Digital Marketing, Social Media",media,Full-time," Lyon, France",40000, Slack Technologies
+962898,Milania,32,Male,Master's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",education,Contract," Munich, Germany",60000, Datadog
+974058,Kasey,36,Female," bachelor""s degree",Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Industry Interest,Part-time," Hamburg, Germany",20000, JFrog
+977336,Rain,33,Male,Bachelor's degree,Computer Science,"C++, Java, Web Development",Technology,Freelance," Cologne, Germany",65000, Cloudflare
+974884,Kenyon,31,Female,Master's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Finance,Full-time," Frankfurt, Germany",50000, Snowflake
+986059,Marina,33,Male,Master's degree,Culinary Arts,"Cooking, Food Safety, Kitchen Management",Retail,Full-time," Dresden, Germany",90000, ZoomInfo Technologies
+960441,Jair,38,Female,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Healthcare,Contract," Salzburg, Austria",100000, Zscaler
+993074,Casey,33,Male,Bachelor's degree,IT,"Network Security, Troubleshooting, Linux",Marketing,Part-time," Krakow, Poland",65000, CrowdStrike Holdings
+979569,Kristina,33,Female,Master's degree,Marketing,"Market Research, Strategic Planning",Healthcare,Full-time," Gdansk, Poland",85000, Twilio
+964995,Aditya,39,Male,Bachelor's degree,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Engineering,Freelance," Valencia, Spain",30000, Appian
+990793,Noor,33,Female,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Technology,Full-time," Malaga, Spain",45000, Domo
+974605,Jakayla,35,Male,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",Architecture,Full-time," Porto, Portugal",70000, Coupa Software
+981123,Alena,39,Female,Master's degree,N/A,"Sales, Customer Service, Communication",Hospitality,Internship," Krakow, Poland",75000, Anaplan
+593469,Mekhi,38,Male,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",Finance,Freelance," Saint Petersburg, Russia",85000, Zillow Group
+961274,Addyson,23,Female,Master's degree,Marketing,"Digital Marketing, Social Media",Technology,Part-time," Geneva, Switzerland",25000, Chewy
+967906,Marley,27,Male,Bachelor's degree,Engineering,"MATLAB, SolidWorks, CAD",Marketing,Full-time, Monaco,55000, Peloton Interactive
+964697,Kairo,31,Female,Bachelor's degree,Psychology,"Counseling, Psychotherapy",Environmental Sc.,Full-time," New York City, USA",65000, Beyond Meat
+964955,Jaylyn,42,Female,Master's degree,N/A,"Hospitality, Cooking, Time Management",Technology,Contract," Los Angeles, USA",55000, Moderna
+984305,Cedric,31,Female,Bachelor's degree,Graphic Design,"Adobe Photoshop, Illustrator",Finance,Full-time," Chicago, USA",35000, CRISPR Therapeutics
+13110,Amalia,27,Male,Master's degree,Education,"Curriculum Design, Teaching",Retail,Contract," Toronto, Canada",45000, Illumina
+982049,Lucien,34,Male,Associate's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Healthcare,Part-time," Montreal, Canada",80000, Vertex Pharmaceuticals
+977643,Legacy,40,Male,Bachelor's Degree ,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Marketing,Full-time," Vancouver, Canada",45000, Nvidia
+972204,Jaxen,24,Female,Master's Degree ,Psychology,"Counseling, Research Methods, Communication",Engineering,Freelance," Mexico City, Mexico",55000, Advanced Micro Devices
+966601,Selina,31,Male,Bachelor's Degree ,Finance,"Financial Analysis, Investment Management",Healthcare,Full-time," Miami, USA",35000, Qualcomm
+942892,Kylen,45,Male,Master's Degree ,Journalism,"Writing, Editing, Social Media Management",Hospitality,Full-time," San Francisco, USA",75000, Micron Technology
+964339,Celine,28,Female,Bachelor's Degree ,Civil Engineering,"AutoCAD, Construction Management, Project Planning",Creative,Internship," Washington DC, USA",45000, Western Digital
+969302,Kase,22,Male,Bachelor's Degree ,Biology,"Lab Techniques, Research Methodology, Data Analysis",Education,Freelance," Boston, USA",40000, Seagate Technology
+967546,Lyra,31,Female,Master's Degree ,Economics,"Econometrics, Microeconomics, Statistical Analysis",Marketing,Full-time," Seattle, USA",35000, Broadcom
+964058,Rayan,22,Female,Bachelor's degree,Education,"Curriculum Design, Teaching, Classroom Management",Manufacturing,Full-time," Austin, USA",30000, Marvell Technology Group
+969689,Naima,26,male,Master's Degree ,Public Health,"Epidemiology, Biostatistics, Health Policy",Healthcare,Contract," Houston, USA",65000, NXP Semiconductors
+975581,Brylee,33,female,master's degree,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Finance,Full-time," Dallas, USA",85000, ASML Holding
+970972,Ronan,20,female,Master's Degree ,Environmental Science,"GIS, Fieldwork, Environmental Policy",Media,Full-time," San Diego, USA",30000, Lam Research
+987653,Arielle,27,male,master's degree,International Business,"Cross-cultural Communication, Global Marketing",Construction,Contract," Phoenix, USA",45000, Applied Materials
+967926,Kaiden,19,female,Master's Degree ,Computer Science,"Java, Python, Data Structures",Science,Full-time," Atlanta, USA",70000, KLA Corporation
+960847,Adilene,32,,"master""s degree",Business,"Finance, Accounting, Microsoft Excel",Consulting,Full-time," Denver, USA",75000, Texas Instruments
+972508,Zaid,25,,Bachelor's degree,health,"medicals, Customer Service, Communication",Education,Full-time," Nashville, USA",80000, Analog Devices
+971284,Dariana,22,,Master's degree,Nursing,"Patient Care, Medical Terminology",Healthcare,Contract," Portland, USA",40000, Maxim Integrated Products
+974053,Darnell,32,," bachelor""s degree",Marketing,"Digital Marketing, Social Media",Design,Part-time," Calgary, Canada",60000, Infineon Technologies
+706991,Zaniyah,29,,Associate's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Environment,Full-time," Ottawa, Canada",20000, STMicroelectronics
+981307,Deshawn,21,,Bachelor's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Business,Freelance," Quebec City, Canada",50000, Siemens
+995155,Aracely,36,Male+D43B100D2:D66,Master's degree,Computer Science,"C++, Java, Web Development",Health care,Full-time," Guadalajara, Mexico",90000, ABB
+985247,Boaz,34,Female,Bachelor's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Finance,Full-time," Cancun, Mexico",90000, Schneider Electric
+42871,Laniyah,27,Male,Master's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",healthcare,Internship," Tijuana, Mexico",120000, Honeywell International
+972910,Rowen,44,Female,Bachelor's degree,IT,"Network Security, Troubleshooting, Linux",Technology,Freelance," Edmonton, Canada",110000, Johnson Controls International
+964923,Alora,22,Male,Associate's degree,Marketing,"Market Research, Strategic Planning",Agriculture,Part-time," Winnipeg, Canada",100000, Rockwell Automation
+989558,Jericho,32,Female,Bachelor's degree,Computer Science,"excel, Python, Data Structures",Energy,Full-time," Anchorage, USA",130000, Emerson Electric
+977206,Tegan,34,Male,Associate's degree,Computer Science,"power bi, Python, Data Structures",Retail,Full-time," Honolulu, USA",150000, General Electric
+969876,Maxim,35,Female,Master's degree,Computer Science,"Rstudio, Python, Data Structures",Technology,Contract," Tampa, USA",65000, Raytheon Technologies
+916290,Imani,32,Male,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Transportation,Full-time," Charlotte, USA",85000, Lockheed Martin
+988679,Fox,35,Female,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Marketing,Full-time," Philadelphia, USA",30000, Northrop Grumman
+972834,Amora,18,Female,Master's degree,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,Media,Contract," Las Vegas, USA",45000, Boeing
+977945,Tristin,28,Male," bachelor""s degree",Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,Consulting,Part-time," Salt Lake City, USA",70000, Airbus
+980226,Zaylee,48,Female,Associate's degree,Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,Technology,Full-time," San Antonio, USA",75000, BAE Systems
+978407,Mckinley,29,Male,Bachelor's degree,Computer Science,Algorithm design and analysis Object-oriented programming Database management,Technology,Freelance," Indianapolis, USA",80000, Thales Group
+970598,Micaela,29,Male,Bachelor's degree,Journalism,Investigative reporting Multimedia storytelling Data journalism,Technology,Full-time," Kansas City, USA",40000, Rolls-Royce Holdings
+977035,Kean,21,Female,Master's degree,Mechanical Engineering,Material science CAD modeling and simulation Robotics,Technology,Contract," Columbus, USA",60000, Honeywell Aerospace
+185623,Maryjane,32,Male," bachelor""s degree",Business Administration,Financial analysis and forecasting Strategic planning Project management,Technology,Part-time," Louisville, USA",20000, Safran
+989878,Musa,24,Female,Bachelor's degree,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,technology,Freelance," Memphis, USA",65000, Leonardo
+901998,Amayah,23,Male,Master's degree,Graphic Design,Typography and layout design Branding and identity design User experience design,healthcare,Full-time," New Orleans, USA",50000, Capgemini
+992530,Lathan,23,Male,Master's degree,Political Science,Comparative politics international relations Political theory,Construction,Full-time," Oklahoma City, USA",90000, Accenture
+987324,Ellery,22,Female,Bachelor's degree,Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,Technology,Contract," Omaha, USA",100000, Infosys
+997914,Jaidyn,37,Male,Bachelor's degree,physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,media,Part-time," Pittsburgh, USA",65000, Tata Consultancy Services
+539647,Karissa,32,Female,Master's degree,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,construction,Full-time," Raleigh, USA",85000, Wipro
+983648,Kellan,23,Male,Bachelor's degree,marketing,Market research and analysis Brand management Digital marketing and advertising,fintech,Freelance," Sacramento, USA",30000, Cognizant Technology Solutions
+961529,Lyanna,44,Female,Bachelor's degree,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,healthcare,Full-time," San Jose, USA",45000, HCL Technologies
+989284,Aron,33,Male,Bachelor's degree,Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,Technology,Full-time," St Louis, USA",70000, DXC Technology
+985106,Faye,33,Female,Master's degree,chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,media,Internship,,75000, Atos
+828524,Kysen,26,Male,Bachelor's degree,social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,healthcare,Freelance,New York,85000, CGI Inc
+968353,Avianna,23,Female,Master's degree,music,Music theory and composition Performance technique and interpretation Music technology and production,Technology,Part-time,London,25000, Fujitsu
+320113,Nikolai,31,Male,Bachelor's degree,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,education,Full-time,Chicago,55000, NEC
+957774,Zainab,26,Female,Bachelor's degree,economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,media,Full-time,Los Angeles,65000, Hitachi
+974645,Kolt,37,Male,Master's degree,theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,education,Contract,Toronto,55000, Sony Corporation
+969670,Aiyana,24,Female,Bachelor's degree,Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,Construction,Full-time,Washington DC,35000, LG Electronics
+964716,Rocco,33,Male,Master's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,Manufacturing,Contract,San Francisco,45000, Samsung Electronics
+971274,Jurnee,0,Female,Associate's degree,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",media ,Part-time,Seattle,80000, Huawei Technologies
+897638,Jairus,42,Male,Bachelor's Degree ,art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,media ,Full-time,London,45000, ZTE Corporation
+993617,Journee,33,Female,Master's Degree ,Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,media,Freelance,Miami,55000, Xiaomi Corporation
+968498,Dangelo,0,Female,Bachelor's Degree ,sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,fintech,Full-time,New York,35000, Lenovo Group
+988267,Taryn,19,Female,Master's Degree ,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",media,Full-time,Dallas,75000, HP Inc
+996466,Kaylen,20,Male,Bachelor's Degree ,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,education,Internship,Los Angeles,45000, Dell Technologies
+972430,Alondra,31,Male,Bachelor's Degree ,Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,media,Freelance,Vancouver,40000, IBM
+979641,Kolten,26,Male,Master's Degree ,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,media,Full-time,New York,35000, Oracle Corporation
+971179,Lucinda,31,Female,Bachelor's degree,English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,media,Full-time,London,30000, SAP SE
+977971,Camryn,41,Male,Master's Degree ,Computer Science,"Java, Python, Data Structures",education,Contract,Chicago,65000, Adobe Inc
+970073,Deven,23,Male,master's degree,Business,"Finance, Accounting, Microsoft Excel",media ,Full-time,Los Angeles,85000, Salesforcecom
+987763,Noelia,23,Female,Master's Degree ,N/A,"Sales, Customer Service, Communication",media,Full-time,Toronto,30000, Workday Inc
+979190,Marquise,0,Male,master's degree,Nursing,"Patient Care, Medical Terminology",media,Contract,Houston,45000, ServiceNow Inc
+970519,Adira,26,Female,Master's Degree ,Marketing,"Digital Marketing, Social Media",Manufacturing,Full-time,Miami,70000, Zoom Video Communications
+780883,Achilles,39,Female,"master""s degree",Public Health,"Epidemiology, Biostatistics, Data Analysis",media,Full-time,San Francisco,75000, Dropbox Inc
+669969,Journi,23,male,Bachelor's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",education,Full-time,Austin,80000, DocuSign Inc
+972484,Braelyn,40,female,Master's degree,Computer Science,"C++, Java, Web Development",Industry Interest,Contract,Boston,40000, Square Inc
+969892,Tyshawn,37,female," bachelor""s degree",Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Technology,Part-time,New York,60000, Etsy Inc
+937083,E,22,male,Associate's degree,Culinary Arts,"Cooking, Food Safety, Kitchen Management",Finance,Full-time,London,20000, PayPal Holdings Inc
+158029,,25,female,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Retail,Freelance,Chicago,50000, Visa Inc
+997341,Kadin,50,,Master's degree,IT,"Network Security, Troubleshooting, Linux",Healthcare,Full-time,Los Angeles,90000, Mastercard Inc
+61175,Alisson,0,,Bachelor's degree,Marketing,"Market Research, Strategic Planning",Marketing,Full-time,Toronto,90000, American Express Company
+971323,Ridge,32,,Master's degree,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Healthcare,Internship,Washington DC,120000, Discover Financial Services
+988504,Kyndall,29,,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Engineering,Freelance,San Francisco,110000, Intuit Inc
+962289,Leandro,21,,Associate's degree,Business,"Finance, Accounting, Microsoft Excel",Technology,Part-time,Seattle,100000, Uber Technologies Inc
+19033,Natalee,31,,Bachelor's degree,N/A,"Sales, Customer Service, Communication",Architecture,Full-time,London,130000, Lyft Inc
+977290,Dax,42,Male+D43B100D2:D67,Associate's degree,Nursing,"Patient Care, Medical Terminology",Hospitality,Full-time,Miami,150000, Airbnb Inc
+961338,Tahlia,41,Female,Master's degree,Marketing,"Digital Marketing, Social Media",Finance,Contract,New York,65000, Expedia Group Inc
+983003,Rowdy,29,Male,Bachelor's degree,Engineering,"MATLAB, SolidWorks, CAD",Technology,Full-time,Dallas,85000, Booking Holdings Inc
+984184,Alaia,20,Female,Bachelor's degree,Psychology,"Counseling, Psychotherapy",Marketing,Full-time,Miami,30000, Tripadvisor Inc
+985076,Devyn,25,Male,Master's degree,N/A,"Hospitality, Cooking, Time Management",Environmental Sc.,Contract,San Francisco,45000, Google (Alphabet Inc)
+977920,Aylin,26,Female," bachelor""s degree",Graphic Design,"Adobe Photoshop, Illustrator",Technology,Part-time,Austin,70000, Facebook Inc
+972841,Zyon,23,Male,Associate's degree,Education,"Curriculum Design, Teaching",Finance,Full-time,Boston,75000, Twitter Inc
+968393,Fallyn,41,Female,Bachelor's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Retail,Freelance,New York,80000, Snap Inc
+991564,Kamarion,32,Male,Bachelor's degree,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Healthcare,Full-time,London,40000, Pinterest Inc
+985925,Brinley,22,Female,Master's degree,Psychology,"Counseling, Research Methods, Communication",Marketing,Contract,Chicago,60000, Microsoft Corporation
+983206,Dev,30,Female," bachelor""s degree",Finance,"Financial Analysis, Investment Management",Engineering,Part-time,Los Angeles,20000, Amazoncom Inc
+982147,Milana,25,Male,Bachelor's degree,Journalism,"Writing, Editing, Social Media Management",Healthcare,Freelance,Toronto,65000,continue
+962307,Korbin,19,Female,Master's degree,Civil Engineering,"AutoCAD, Construction Management, Project Planning",Hospitality,Full-time,Washington DC,50000, Netflix Inc
+285355,Sariah,16,Male,Master's degree,Biology,"Lab Techniques, Research Methodology, Data Analysis",Creative,Full-time,Seattle,90000, Apple Inc
+990473,Klayton,53,Male,Bachelor's degree,Economics,"Econometrics, Microeconomics, Statistical Analysis",Education,Contract,London,100000, Intel Corporation
+962477,Novalee,33,Female,Bachelor's degree,Education,"Curriculum Design, Teaching, Classroom Management",Marketing,Part-time,Miami,65000, Cisco Systems Inc
+967663,Karsyn,37,Male,Master's degree,Public Health,"Epidemiology, Biostatistics, Health Policy",Manufacturing,Full-time, New York,85000, Juniper Networks Inc
+987618,Jovanny,36,Female,Bachelor's degree,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Healthcare,Freelance, California,30000, F Networks Inc
+960434,Aiyanna,28,Male,Bachelor's degree,Environmental Science,"GIS, Fieldwork, Environmental Policy",Finance,Full-time, Texas,45000, Fortinet Inc
+989455,Kyran,45,Male,Bachelor's degree,International Business,"Cross-cultural Communication, Global Marketing",Media,Full-time, Florida,70000, Palo Alto Networks Inc
+963468,Savanna,24,Female,Master's degree,Computer Science,"Java, Python, Data Structures",Construction,Internship, Ohio,75000, Symantec Corporation
+957809,Koen,28,Male,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",Science,Freelance, Oregon,85000, McAfee LLC
+563662,Jaqueline,20,Female,Master's degree,health,"medicals, Customer Service, Communication",Consulting,Part-time, Colorado,25000, Akamai Technologies Inc
+960364,Jovany,26,Male,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",Education,Full-time, Georgia,55000, Cloudflare Inc
+985179,Alba,30,Female,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Healthcare,Full-time, Michigan,65000, ZoomInfo Technologies Inc
+966490,Azariah,32,Male,Master's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Design,Contract, Arizona,55000, Okta Inc
+966497,Kylah,38,Female,Bachelor's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Environment,Full-time," Alberta, Canada",35000, DocuSign Inc
+595221,Davon,32,Male,Master's degree,Computer Science,"C++, Java, Web Development",Business,Contract," Sindh, Pakistan",45000, CrowdStrike Holdings Inc
+968053,Emerie,35,Female,Associate's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Health care,Part-time," Sao Paulo, Brazil",80000, Dropbox Inc
+983992,Mykah,45,Male,Bachelor's Degree ,Accounting,"Tax Preparation, Financial Reporting, Excel",Finance,Full-time," Yucatan, Mexico",45000, Slack Technologies Inc
+966570,Danika,27,Female,Master's Degree ,IT,"Network Security, Troubleshooting, Linux",healthcare,Freelance," Eastern Cape, South Africa",55000, Atlassian Corporation Plc
+981280,Yurem,20,Male,Bachelor's Degree ,Marketing,"Market Research, Strategic Planning",Technology,Full-time," Hubei, China",35000, Twilio Inc
+978759,Emani,31,Female,Master's Degree ,Computer Science,"excel, Python, Data Structures",Agriculture,Full-time," Lombardy, Italy",75000, MongoDB Inc
+960350,Devante,48,Male,Bachelor's Degree ,Computer Science,"power bi, Python, Data Structures",Energy,Internship," Ogun, Nigeria",45000, Cloudera Inc
+993585,Maritza,22,Female,Bachelor's Degree ,Computer Science,"Rstudio, Python, Data Structures",Retail,Freelance," Odisha, India",40000, Snowflake Inc
+969608,Jakobe,35,Male,Master's Degree ,Computer Science,"Rstudio, Python, Data Structures",Technology,Full-time," Canterbury, New Zealand",35000, Splunk Inc
+976371,Taliyah,22,Female,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Transportation,Full-time," Paris, France",30000, Nutanix Inc
+671723,Koltyn,23,Female,Master's Degree ,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,Marketing,Contract," London, United Kingdom",65000, Red Hat Inc
+995271,Alannah,24,Female,master's degree,Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,Media,Full-time," Berlin, Germany",85000, ServiceNow Inc
+871890,Cruzito,0,Male,Master's Degree ,Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,Consulting,Full-time," Madrid, Spain",30000, VMware Inc
+962722,Marlen,23,Male,master's degree,Computer Science,Algorithm design and analysis Object-oriented programming Database management,Technology,Contract," Rome, Italy",45000, Dell Technologies Inc
+982611,Bently,38,Male,Master's Degree ,Journalism,Investigative reporting Multimedia storytelling Data journalism,Technology,Full-time," Moscow, Russia",70000, Hewlett Packard Enterprise Co
+963860,Charley,27,Female,"master""s degree",Mechanical Engineering,Material science CAD modeling and simulation Robotics,Technology,Full-time," Amsterdam, Netherlands",75000, Lenovo Group Limited
+916295,Lennie,22,Male,Bachelor's degree,Business Administration,Financial analysis and forecasting Strategic planning Project management,Technology,Full-time," Vienna, Austria",80000, Nokia Corporation
+990304,Kameron,27,Male,Master's degree,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,Technology,Contract," Athens, Greece",40000, Ericsson
+959272,Gracelynn,31,Female," bachelor""s degree",Graphic Design,Typography and layout design Branding and identity design User experience design,technology,Part-time," Lisbon, Portugal",60000, Broadcom Inc
+991047,Karim,0,Male,Associate's degree,Political Science,Comparative politics international relations Political theory,healthcare,Full-time," Copenhagen, Denmark",20000, Qualcomm Inc
+997946,Avah,28,Female,Bachelor's degree,Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,Construction,Freelance," Brussels, Belgium",50000, Micron Technology Inc
+981790,Jaron,31,Female,Master's degree,physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,Technology,Full-time," Helsinki, Finland",90000, Texas Instruments Incorporated
+974697,Lilli,25,male,Bachelor's degree,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,media,Full-time," Oslo, Norway",90000, Applied Materials Inc
+979528,Aydan,22,female,Master's degree,marketing,Market research and analysis Brand management Digital marketing and advertising,construction,Internship," Stockholm, Sweden",120000, Lam Research Corporation
+989566,Anabelle,18,female,Bachelor's degree,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,fintech,Freelance," Zurich, Switzerland",110000, ASML Holding NV
+968868,Rian,26,male,Associate's degree,Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,healthcare,Part-time," Warsaw, Poland",100000, Sony Corporation
+955343,Nalani,45,female,Bachelor's degree,chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,Technology,Full-time," Budapest, Hungary",130000, Canon Inc
+355289,Eshaan,31,,Associate's degree,social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,media,Full-time," Dubrovnik, Croatia",150000, Fujifilm Holdings Corporation
+966390,Jolene,50,,Master's degree,music,Music theory and composition Performance technique and interpretation Music technology and production,healthcare,Contract," Reykjavik, Iceland",65000," Ricoh Company, Ltd"
+976098,Giuseppe,46,,Bachelor's degree,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,Technology,Full-time," Edinburgh, United Kingdom",85000, Seiko Epson Corporation
+976987,Maren,40,,Bachelor's degree,economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,education,Full-time," Dublin, Ireland",30000, Acer Inc
+986992,Kasey,24,,Master's degree,theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,media,Contract," Prague, Czech Republic",45000, Lenovo Group Limited
+978639,Armando,27,," bachelor""s degree",Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,education,Part-time," Tallinn, Estonia",70000," Hon Hai Precision Industry Co, Ltd"
+963315,Yara,21,Male+D43B100D2:D68,Associate's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,Construction,Full-time," Riga, Latvia",75000, Toshiba Corporation
+997326,Enoch,30,Female,Bachelor's degree,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",Manufacturing,Freelance," Vilnius, Lithuania",80000, Panasonic Corporation
+986834,Taniyah,51,Male,Bachelor's degree,art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,media ,Full-time," Sofia, Bulgaria",40000, LG Electronics Inc
+983655,Khyree,39,Female,Master's degree,Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,media ,Contract," Bucharest, Romania",60000," Samsung Electronics Co, Ltd"
+993159,Emmalynn,33,Male," bachelor""s degree",sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,media,Part-time," Belgrade, Serbia",20000, SK Hynix Inc
+960062,Samson,33,Female,Bachelor's degree,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",fintech,Freelance," Sarajevo, Bosnia and Herzegovina",65000, Micron Technology Inc
+992778,Raya,32,Male,Master's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Full-time," Bratislava, Slovakia",50000, Broadcom Inc
+977718,Kaia,35,Female,Master's degree,Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,education,Full-time," Ljubljana, Slovenia",90000, QUALCOMM Incorporated
+842190,Ean,27,Male,Bachelor's degree,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,media,Contract," Zagreb, Croatia",100000, Nvidia Corporation
+961115,Karla,25,Female,Bachelor's degree,English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,media,Part-time," Marseille, France",65000, Advanced Micro Devices Inc
+997107,Jase,0,Female,Master's degree,Computer Science,"Java, Python, Data Structures",media,Full-time," Lyon, France",85000, Intel Corporation
+989615,Aislyn,23,Male,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",education,Freelance," Munich, Germany",30000, Apple Inc
+993343,Kristian,28,Female,Bachelor's degree,N/A,"Sales, Customer Service, Communication",media ,Full-time," Hamburg, Germany",45000, Microsoft Corporation
+967169,Makena,21,Male,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",media,Full-time," Cologne, Germany",70000, Alphabet Inc
+952615,Tiago,20,Male,Master's degree,Marketing,"Digital Marketing, Social Media",media,Internship," Frankfurt, Germany",75000," Facebook, Inc"
+356899,Yaritza,34,Female,Bachelor's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Manufacturing,Freelance," Dresden, Germany",85000, Tencent Holdings Limited
+995524,Devlin,23,Male,Master's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",media,Part-time," Salzburg, Austria",25000, Alibaba Group Holding Limited
+964532,Yamileth,22,Female,Bachelor's degree,Computer Science,"C++, Java, Web Development",education,Full-time," Krakow, Poland",55000," Baidu, Inc"
+964149,Kaison,26,Male,Bachelor's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Industry Interest,Full-time," Gdansk, Poland",65000," Twitter, Inc"
+846401,Harleigh,18,Male,Master's degree,Culinary Arts,"Cooking, Food Safety, Kitchen Management",Technology,Contract," Valencia, Spain",55000, Snap Inc
+961438,Zephyr,29,Female,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Finance,Full-time," Malaga, Spain",35000," Pinterest, Inc"
+993343,Kaily,30,Male,Master's degree,IT,"Network Security, Troubleshooting, Linux",Retail,Contract," Porto, Portugal",45000," Dropbox, Inc"
+967169,Yurem,26,Female,Associate's degree,Marketing,"Market Research, Strategic Planning",Healthcare,Part-time," Krakow, Poland",80000," DocuSign, Inc"
+952615,Adalind,36,Male,Bachelor's Degree ,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Marketing,Full-time," Saint Petersburg, Russia",45000," Okta, Inc"
+356899,Tyreese,25,Female,Master's Degree ,Computer Science,"Java, Python, Data Structures",Healthcare,Freelance," Geneva, Switzerland",55000, Twilio Inc
+995524,Kenedy,45,Male,Bachelor's Degree ,Business,"Finance, Accounting, Microsoft Excel",Engineering,Full-time, Monaco,35000," Zoom Video Communications, Inc"
+964532,Mykah,32,Female,Master's Degree ,N/A,"Sales, Customer Service, Communication",Technology,Full-time," New York City, USA",75000, Atlassian Corporation Plc
+964149,Camron,52,Male,Bachelor's Degree ,Nursing,"Patient Care, Medical Terminology",Architecture,Internship," Los Angeles, USA",45000," Square, Inc"
+846401,Kristal,20,Female,Bachelor's Degree ,Marketing,"Digital Marketing, Social Media",Hospitality,Freelance," Chicago, USA",40000," Etsy, Inc"
+961438,Kamren,30,Male,Master's Degree ,Engineering,"MATLAB, SolidWorks, CAD",Finance,Full-time," Toronto, Canada",35000," PayPal Holdings, Inc"
+958380,Azul,26,Female,Bachelor's degree,Psychology,"Counseling, Psychotherapy",Technology,Full-time," Montreal, Canada",30000, Visa Inc
+960886,Layton,0,Male,Master's Degree ,N/A,"Hospitality, Cooking, Time Management",Marketing,Contract," Vancouver, Canada",65000, Mastercard Incorporated
+960754,Lenny,24,Female,master's degree,Graphic Design,"Adobe Photoshop, Illustrator",Environmental Sc.,Full-time," Mexico City, Mexico",85000, American Express Company
+978534,Adan,0,Male,Master's Degree ,Education,"Curriculum Design, Teaching",Technology,Full-time," Miami, USA",30000," Expedia Group, Inc"
+989466,Elyana,30,Female,master's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Finance,Contract," San Francisco, USA",45000, Booking Holdings Inc
+988939,Haiden,31,Male,Master's Degree ,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Retail,Full-time," Washington DC, USA",70000," Tripadvisor, Inc"
+972695,Emalyn,29,Female,"master""s degree",Psychology,"Counseling, Research Methods, Communication",Healthcare,Full-time," Boston, USA",75000," Uber Technologies, Inc"
+961941,Kamar,22,Female,Bachelor's degree,Finance,"Financial Analysis, Investment Management",Marketing,Full-time," Seattle, USA",80000," Lyft, Inc"
+991992,Yaretzi,26,Female,Master's degree,Journalism,"Writing, Editing, Social Media Management",Engineering,Contract," Austin, USA",40000," Airbnb, Inc"
+998238,Zaidyn,22,Male," bachelor""s degree",Civil Engineering,"AutoCAD, Construction Management, Project Planning",Healthcare,Part-time," Houston, USA",60000, Dell Technologies Inc
+969996,Layan,48,Male,Associate's degree,Biology,"Lab Techniques, Research Methodology, Data Analysis",Hospitality,Full-time," Dallas, USA",20000, Hewlett Packard Enterprise Company
+972317,Eithan,32,Male,Bachelor's degree,Economics,"Econometrics, Microeconomics, Statistical Analysis",Creative,Freelance," San Diego, USA",50000, Lenovo Group Limited
+980374,Karyme,38,Female,Master's degree,Education,"Curriculum Design, Teaching, Classroom Management",Education,Full-time," Phoenix, USA",90000, Nokia Corporation
+992011,Jordi,26,Male,Bachelor's degree,Public Health,"Epidemiology, Biostatistics, Health Policy",Marketing,Full-time," Atlanta, USA",90000, Ericsson
+962986,Adia,22,Male,Master's degree,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Manufacturing,Internship," Denver, USA",120000," Huawei Technologies Co, Ltd"
+960888,Krew,33,Female,Bachelor's degree,Environmental Science,"GIS, Fieldwork, Environmental Policy",Healthcare,Freelance," Nashville, USA",110000, ZTE Corporation
+960410,Giselle,30,Male,Associate's degree,International Business,"Cross-cultural Communication, Global Marketing",Finance,Part-time," Portland, USA",100000, Xiaomi Corporation
+983553,Marlon,34,Female,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Media,Full-time," Calgary, Canada",130000, Sony Corporation
+964213,Kaitlynn,46,Female,Associate's degree,Business,"Finance, Accounting, Microsoft Excel",Construction,Full-time," Ottawa, Canada",150000, Panasonic Corporation
+982268,Ethen,31,male,Master's degree,health,"medicals, Customer Service, Communication",Science,Contract," Quebec City, Canada",90000, Fujifilm Holdings Corporation
+970012,Ailani,27,female,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",Consulting,Full-time," Guadalajara, Mexico",120000, Canon Inc
+922715,Mycah,30,female,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Education,Full-time," Cancun, Mexico",110000, Nikon Corporation
+811334,Kileigh,33,male,Master's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",Healthcare,Contract," Tijuana, Mexico",100000," GoPro, Inc"
+991096,Emelie,26,female," bachelor""s degree",Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Design,Part-time," Edmonton, Canada",130000, Garmin Ltd
+962247,Teagan,21,,Associate's degree,Computer Science,"C++, Java, Web Development",Environment,Full-time," Winnipeg, Canada",150000," Fitbit, Inc"
+821068,Keyon,33,,Bachelor's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Business,Freelance," Anchorage, USA",100000," Sonos, Inc"
+964306,Nylah,21,,Bachelor's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Health care,Full-time," Honolulu, USA",65000, Bose Corporation
+978414,Kaelin,25,,Master's degree,IT,"Network Security, Troubleshooting, Linux",Finance,Contract," Tampa, USA",85000, Sennheiser Electronic GmbH & Co KG
+958548,Anais,44,," bachelor""s degree",Marketing,"Market Research, Strategic Planning",healthcare,Part-time," Charlotte, USA",30000, Ultimate Ears
+983274,Dior,34,,Bachelor's degree,Computer Science,"excel, Python, Data Structures",Technology,Freelance," Philadelphia, USA",45000," Harman International Industries, Incorporated"
+961170,Koa,34,Male+D43B100D2:D69,Master's degree,Computer Science,"power bi, Python, Data Structures",Agriculture,Full-time," Las Vegas, USA",70000, Pioneer Corporation
+957941,Adison,23,Female,Master's degree,Computer Science,"Rstudio, Python, Data Structures",Energy,Full-time," Salt Lake City, USA",75000, Continental AG
+921209,Taniya,34,Male,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Retail,Contract," San Antonio, USA",85000, Bosch
+20681,Brecken,21,Female,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Technology,Part-time," Indianapolis, USA",25000, Siemens AG
+968494,Alonna,36,Male,Master's degree,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,Transportation,Full-time," Kansas City, USA",55000, General Electric Company
+977981,Eoin,38,Female,Bachelor's degree,Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,Marketing,Freelance," Columbus, USA",65000, Honeywell International Inc
+975918,Kyndal,36,Male,Bachelor's degree,Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,Media,Full-time," Louisville, USA",55000, M Company
+779187,Mireya,38,Female,Bachelor's degree,Computer Science,Algorithm design and analysis Object-oriented programming Database management,Consulting,Full-time," Memphis, USA",35000, Johnson Controls International plc
+992289,Camdyn,32,Male,Master's degree,Journalism,Investigative reporting Multimedia storytelling Data journalism,Technology,Internship," New Orleans, USA",45000, Carrier Global Corporation
+997869,Kaisen,30,Female,Bachelor's degree,Mechanical Engineering,Material science CAD modeling and simulation Robotics,Technology,Freelance," Oklahoma City, USA",80000, United Technologies Corporation
+980098,Emillio,42,Female,Master's degree,Business Administration,Financial analysis and forecasting Strategic planning Project management,Technology,Part-time," Omaha, USA",45000, Caterpillar Inc
+971630,Kaysen,35,Male,Bachelor's degree,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,Technology,Full-time," Pittsburgh, USA",55000, Deere & Company
+641071,Anneliese,20,Female,Bachelor's degree,Graphic Design,Typography and layout design Branding and identity design User experience design,Technology,Full-time," Raleigh, USA",35000, Komatsu Ltd
+985875,Javon,54,Male,Master's degree,Political Science,Comparative politics international relations Political theory,technology,Contract," Sacramento, USA",75000, Volvo Group
+977725,Samiyah,27,Male,Bachelor's degree,Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,healthcare,Full-time," San Jose, USA",45000, General Motors Company
+983505,Keilani,36,Female,Master's degree,physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,Construction,Contract," St Louis, USA",40000, Ford Motor Company
+983204,Aaden,38,Male,Associate's degree,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,Technology,Part-time,,35000, Fiat Chrysler Automobiles NV
+980371,Melani,32,Female,Bachelor's Degree ,marketing,Market research and analysis Brand management Digital marketing and advertising,media,Full-time,New York,30000," Tesla, Inc"
+967620,Joziah,30,Male,Master's Degree ,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,construction,Freelance,London,65000, Toyota Motor Corporation
+998302,Kady,42,Male,Bachelor's Degree ,Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,fintech,Full-time,Chicago,85000," Honda Motor Co, Ltd"
+987217,Eilish,35,Female,Master's Degree ,chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,healthcare,Full-time,Los Angeles,30000," Nissan Motor Co, Ltd"
+752210,Landin,20,Male,Bachelor's Degree ,social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,Technology,Internship,Toronto,45000, Hyundai Motor Company
+254643,Kaidyn,54,Female,Bachelor's Degree ,music,Music theory and composition Performance technique and interpretation Music technology and production,media,Freelance,Washington DC,70000, Kia Motors Corporation
+993792,Arlet,27,Male,Master's Degree ,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,healthcare,Full-time,San Francisco,75000, Volkswagen AG
+981164,Jael,36,Female,Bachelor's degree,economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,Technology,Full-time,Seattle,80000, BMW AG
+962135,Koda,39,Male,Master's Degree ,theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,education,Contract,London,40000, Daimler AG
+117529,Kaitlyn,38,Female,master's degree,Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,media,Full-time,Miami,60000, Audi AG
+969128,Danilo,19,Male,Master's Degree ,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,education,Full-time,New York,20000, Porsche AG
+966282,Abrielle,35,Female,master's degree,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",Construction,Contract,Dallas,50000, The Boeing Company
+982882,Renzo,51,Male,Master's Degree ,art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,Manufacturing,Full-time,Los Angeles,90000, Lockheed Martin Corporation
+991519,Briana,37,Female,"master""s degree",Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,media ,Full-time,Vancouver,90000, Northrop Grumman Corporation
+995680,Kaine,32,Male,Bachelor's degree,sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,media ,Full-time,New York,120000, Raytheon Technologies Corporation
+956590,Aislynn,36,Female,Master's degree,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",media,Contract,London,110000, General Dynamics Corporation
+596237,Jaxx,48,Male," bachelor""s degree",Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,fintech,Part-time,Chicago,100000, BAE Systems plc
+975675,Raine,22,Female,Associate's degree,Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,media,Full-time,Los Angeles,130000, Airbus SE
+989552,Kaison,27,Male,Bachelor's degree,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,education,Freelance,Toronto,150000, Rolls-Royce Holdings plc
+962387,Jaylinn,49,Female,Master's degree,English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,media,Full-time,Houston,100000, Safran SA
+968856,Zade,22,Female,Bachelor's degree,Computer Science,"Java, Python, Data Structures",media,Full-time,Miami,130000, Thales Group
+995679,Marwa,0,Female,Master's degree,Business,"Finance, Accounting, Microsoft Excel",media,Internship,San Francisco,150000, Leonardo SpA
+960800,Kymber,40,Male,Bachelor's degree,N/A,"Sales, Customer Service, Communication",education,Freelance,Austin,65000, The Walt Disney Company
+981434,Adnan,27,Male,Associate's degree,Nursing,"Patient Care, Medical Terminology",media ,Part-time,Boston,85000, Time Warner Inc
+963055,Mayson,41,Male,Bachelor's degree,Marketing,"Digital Marketing, Social Media",media,Full-time,New York,30000, ViacomCBS Inc
+988317,Kailyn,49,Female,Associate's degree,Public Health,"Epidemiology, Biostatistics, Data Analysis",media,Full-time,London,45000," Netflix, Inc"
+965260,Issac,37,Male,Master's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Manufacturing,Contract,Chicago,70000," Amazoncom, Inc"
+236631,Emersyn,21,Male,Bachelor's degree,Computer Science,"C++, Java, Web Development",media,Full-time,Los Angeles,75000, eBay Inc
+985585,Leilany,0,Female,Bachelor's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",education,Full-time,Toronto,80000, Alibaba Group Holding Limited
+981818,Mikel,23,Male,Master's degree,Culinary Arts,"Cooking, Food Safety, Kitchen Management",Industry Interest,Contract,Washington DC,40000," JDcom, Inc"
+848132,Zakiyah,26,Female," bachelor""s degree",Accounting,"Tax Preparation, Financial Reporting, Excel",Technology,Part-time,San Francisco,60000," Baidu, Inc"
+960147,Lennix,41,Female,Associate's degree,IT,"Network Security, Troubleshooting, Linux",Finance,Full-time,Seattle,20000, Alphabet Inc
+989638,Arwen,25,male,Bachelor's degree,Marketing,"Market Research, Strategic Planning",Retail,Freelance,London,65000," Facebook, Inc"
+962866,Kaeden,22,female,Bachelor's degree,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Healthcare,Full-time,Miami,50000," Twitter, Inc"
+947993,Adella,22,female,Master's degree,Computer Science,"Java, Python, Data Structures",Marketing,Contract,New York,90000, Tencent Holdings Limited
+967224,Karim,45,male," bachelor""s degree",Business,"Finance, Accounting, Microsoft Excel",Healthcare,Part-time,Dallas,100000, IBM Corporation
+998012,Yoselin,29,female,Bachelor's degree,N/A,"Sales, Customer Service, Communication",Engineering,Freelance,Miami,65000, Hewlett Packard Enterprise Company
+988235,Rishi,19,Female,Master's degree,Nursing,"Patient Care, Medical Terminology",Technology,Full-time,San Francisco,85000, Dell Technologies Inc
+966829,Kylar,37,Male,Master's degree,Marketing,"Digital Marketing, Social Media",Architecture,Full-time,Austin,30000, Intel Corporation
+992115,Journee,24,Female,Bachelor's degree,Engineering,"MATLAB, SolidWorks, CAD",Hospitality,Contract,Boston,45000," Advanced Micro Devices, Inc"
+990185,Dario,37,Male,Bachelor's degree,Psychology,"Counseling, Psychotherapy",Finance,Part-time,New York,70000, NVIDIA Corporation
+975612,Kristian,28,Female,Master's degree,N/A,"Hospitality, Cooking, Time Management",Technology,Full-time,London,75000, Qualcomm Incorporated
+985636,Madyson,39,Male,Bachelor's degree,Graphic Design,"Adobe Photoshop, Illustrator",Marketing,Freelance,Chicago,85000, Broadcom Inc
+977156,Kylah,40,Female,Bachelor's degree,Education,"Curriculum Design, Teaching",Environmental Sc.,Full-time,Los Angeles,25000," Cisco Systems, Inc"
+959043,Karol,46,Male,Bachelor's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Technology,Full-time,Toronto,55000," Juniper Networks, Inc"
+993172,Kainoa,26,Female,Master's degree,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Finance,Internship,Washington DC,65000, Ericsson AB
+806499,Jaslyn,29,Female,Bachelor's degree,Psychology,"Counseling, Research Methods, Communication",Retail,Freelance,Seattle,55000, Nokia Corporation
+979563,Makaio,31,Male,Master's degree,Finance,"Financial Analysis, Investment Management",Healthcare,Part-time,London,35000, LG Electronics Inc
+989058,Amaia,31,Female,Bachelor's degree,Journalism,"Writing, Editing, Social Media Management",Marketing,Full-time,Miami,45000," Samsung Electronics Co, Ltd"
+956883,Kairo,18,Male,Bachelor's degree,Civil Engineering,"AutoCAD, Construction Management, Project Planning",Engineering,Full-time, New York,80000, Sony Corporation
+984036,Saniyah,0,Male,Master's degree,Biology,"Lab Techniques, Research Methodology, Data Analysis",Healthcare,Contract, California,45000, Canon Inc
+989459,Lev,39,Female,Bachelor's degree,Economics,"Econometrics, Microeconomics, Statistical Analysis",Hospitality,Full-time, Texas,55000, Fujifilm Holdings Corporation
+982766,Akira,27,Male,Master's degree,Education,"Curriculum Design, Teaching, Classroom Management",Creative,Contract, Florida,35000, Panasonic Corporation
+978819,Kael,35,Female,Associate's degree,Public Health,"Epidemiology, Biostatistics, Health Policy",Education,Part-time, Ohio,75000," Konica Minolta, Inc"
+984313,Ailyn,37,Male,Bachelor's Degree ,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Marketing,Full-time, Oregon,45000, Xerox Holdings Corporation
+964160,Eito,27,Male,Master's Degree ,Environmental Science,"GIS, Fieldwork, Environmental Policy",Manufacturing,Freelance, Colorado,40000, Seagate Technology plc
+991952,Kaily,44,Female,Bachelor's Degree ,International Business,"Cross-cultural Communication, Global Marketing",Healthcare,Full-time, Georgia,35000, Western Digital Corporation
+994391,Fynn,23,Male,Master's Degree ,Computer Science,"Java, Python, Data Structures",Finance,Full-time, Michigan,30000," Applied Materials, Inc"
+958105,Ailin,21,Female,Bachelor's Degree ,Business,"Finance, Accounting, Microsoft Excel",Media,Internship, Arizona,65000, Lam Research Corporation
+960398,Amelie,24,Male,Bachelor's Degree ,health,"medicals, Customer Service, Communication",Construction,Freelance," Alberta, Canada",85000, ASML Holding NV
+985659,Kiyomi,27,Female,Master's Degree ,Nursing,"Patient Care, Medical Terminology",Science,Full-time," Sindh, Pakistan",30000, Texas Instruments Incorporated
+983529,Davin,28,Male,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Consulting,Full-time," Sao Paulo, Brazil",45000," Micron Technology, Inc"
+961821,Nayeli,27,Female,Master's Degree ,Public Health,"Epidemiology, Biostatistics, Data Analysis",Education,Contract," Yucatan, Mexico",70000," Analog Devices, Inc"
+994642,Kruze,28,Male,master's degree,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",Healthcare,Full-time," Eastern Cape, South Africa",75000," Maxim Integrated Products, Inc"
+965517,Arleth,29,Female,Master's Degree ,Computer Science,"C++, Java, Web Development",Design,Full-time," Hubei, China",80000, NXP Semiconductors NV
+960632,Kyrie,27,Male,master's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",Environment,Contract," Lombardy, Italy",40000, ON Semiconductor Corporation
+986467,Esteban,30,Female,Master's Degree ,Accounting,"Tax Preparation, Financial Reporting, Excel",Business,Full-time," Ogun, Nigeria",60000, Renesas Electronics Corporation
+964258,Kenley,33,Male,"master""s degree",IT,"Network Security, Troubleshooting, Linux",Health care,Full-time," Odisha, India",20000, STMicroelectronics NV
+972213,Lyam,36,Female,Bachelor's degree,Marketing,"Market Research, Strategic Planning",Finance,Full-time," Canterbury, New Zealand",50000, Schneider Electric SE
+971254,Kaelani,36,Male,Master's degree,Computer Science,"excel, Python, Data Structures",healthcare,Contract," Paris, France",90000, ABB Ltd
+996824,Rylen,48,Female," bachelor""s degree",Computer Science,"power bi, Python, Data Structures",Technology,Part-time," London, United Kingdom",90000, Emerson Electric Co
+902478,Kamryn,23,Male,Associate's degree,Computer Science,"Rstudio, Python, Data Structures",Agriculture,Full-time," Berlin, Germany",120000, Honeywell Automation India Ltd
+975779,Amani,33,Female,Bachelor's degree,Computer Science,"Rstudio, Python, Data Structures",Energy,Freelance," Madrid, Spain",110000," Rockwell Automation, Inc"
+945142,Zayd,37,Female,Master's degree,Computer Science,"Rstudio, Python, Data Structures",Retail,Full-time," Rome, Italy",100000, Siemens AG
+823809,Eleanore,25,Female,Bachelor's degree,Industrial Engineering,Process design and optimization Lean manufacturing Quality control,Technology,Full-time," Moscow, Russia",130000, Yokogawa Electric Corporation
+758983,Koda,40,Male,Master's degree,Psychology,Cognitive behavioral therapy Psychometric testing Research design and analysis,Transportation,Internship," Amsterdam, Netherlands",150000, Bombardier Inc
+968709,Eymen,22,Male,Bachelor's degree,Environmental Science,Data analysis and interpretation Ecosystem modeling Climate change adaptation planning,Marketing,Freelance," Vienna, Austria",65000, General Electric Company
+964014,Makenzie,64,Male,Associate's degree,Computer Science,Algorithm design and analysis Object-oriented programming Database management,Media,Part-time," Athens, Greece",85000, Airbus SE
+983143,Kaysan,33,Female,Bachelor's degree,Journalism,Investigative reporting Multimedia storytelling Data journalism,Consulting,Full-time," Lisbon, Portugal",30000, Boeing Co
+982930,Aiyana,30,Male,Associate's degree,Mechanical Engineering,Material science CAD modeling and simulation Robotics,Technology,Full-time," Copenhagen, Denmark",45000, Lockheed Martin Corporation
+998314,Ivanna,22,Male,Master's degree,Business Administration,Financial analysis and forecasting Strategic planning Project management,Technology,Contract," Brussels, Belgium",70000, BAE Systems plc
+996237,Zaylen,34,Female,Bachelor's degree,Biology,Genetic analysis and manipulation Microscopy and imaging techniques Field research and data collection,Technology,Full-time," Helsinki, Finland",75000," Huntington Ingalls Industries, Inc"
+987376,Kaislee,0,Male,Bachelor's degree,Graphic Design,Typography and layout design Branding and identity design User experience design,Technology,Full-time," Oslo, Norway",80000, CACI International Inc
+964277,Marquise,37,Female,Master's degree,Political Science,Comparative politics international relations Political theory,Technology,Contract," Stockholm, Sweden",40000," Leidos Holdings, Inc"
+974614,Adalynne,40,Female," bachelor""s degree",Anthropology,Ethnographic field methods Cultural analysis and interpretation Linguistic anthropology,technology,Part-time," Zurich, Switzerland",60000, Booz Allen Hamilton Holding Corporation
+407243,Kolt,20,male,Associate's degree,physcics ,Quantum mechanics Mathematical modeling and simulation Experimental design and data analysis,healthcare,Full-time," Warsaw, Poland",20000,continue
+983857,Bexley,38,female,Bachelor's degree,education,Curriculum design and evaluation Classroom management and instruction Educational psychology and assessment,Construction,Freelance," Budapest, Hungary",65000, Accenture plc
+961262,Zuri,31,female,Bachelor's degree,marketing,Market research and analysis Brand management Digital marketing and advertising,Technology,Full-time," Dubrovnik, Croatia",50000, Capgemini SE
+982735,Karsen,32,male,Master's degree,Linguistics,Phonetics and phonology Semantics and pragmatics Language acquisition and development,media,Contract," Reykjavik, Iceland",90000, Tata Consultancy Services Limited
+962105,Emanuele,20,female," bachelor""s degree",Architecture,Architectural drafting and design Building materials and construction techniques Sustainable design and green building,construction,Part-time," Edinburgh, United Kingdom",100000, Infosys Limited
+983653,Kavita,36,Female,Bachelor's degree,chemistry,Chemical synthesis and analysis Spectroscopy and analytical techniques Biochemistry and molecular biology,fintech,Freelance," Dublin, Ireland",65000, Wipro Limited
+988773,Jaelyn,23,Male,Master's degree,social work ,Case management and client assessment Crisis intervention and counseling Policy analysis and advocacy,healthcare,Full-time," Prague, Czech Republic",85000, Cognizant Technology Solutions Corporation
+979595,Adreanna,40,Female,Master's degree,music,Music theory and composition Performance technique and interpretation Music technology and production,Technology,Full-time," Tallinn, Estonia",30000, IBM Corporation
+989332,Kaelani,29,Male,Bachelor's degree,history,Historical research and interpretation Archival research and documentation Oral history interviewing and analysis,media,Contract," Riga, Latvia",45000, Hewlett Packard Enterprise Company
+987894,Maksim,30,Female,Bachelor's degree,economics,Micro and macroeconomic analysis Econometrics and statistical analysis Game theory and decision-making,healthcare,Part-time," Vilnius, Lithuania",70000, Oracle Corporation
+981802,Kymari,41,Male,Master's degree,theather,Acting technique and performance Stagecraft and production design Dramaturgy and playwriting,Technology,Full-time," Sofia, Bulgaria",75000, SAP SE
+990269,Nalanie,29,Female,Bachelor's degree,Public Health,Epidemiological research and analysis Health policy and management Community health promotion and education,education,Freelance," Bucharest, Romania",85000," Salesforcecom, Inc"
+994643,Kaysin,36,Male,Bachelor's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Full-time," Belgrade, Serbia",25000, Microsoft Corporation
+977929,Karolina,26,Female,Bachelor's degree,Criminal Justice,"Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy
+Criminal Justice",education,Full-time," Sarajevo, Bosnia and Herzegovina",55000," Amazon Web Services, Inc"
+980597,Amiah,24,Female,Master's degree,art history ,Art criticism and theory Museum studies and curation Visual culture and media studies,Construction,Internship," Bratislava, Slovakia",65000, Alphabet Inc
+964665,Kyri,29,Male,Bachelor's degree,Mathematics,Calculus and advanced algebra Geometry and topology Probability and statistics,Manufacturing,Freelance," Ljubljana, Slovenia",55000," Facebook, Inc"
+962510,Jossue,32,Female,Master's degree,sociology ,Social research methods Cultural analysis and interpretation Social inequality and stratification,media ,Part-time," Zagreb, Croatia",35000," Twitter, Inc"
+908327,Anisha,24,Male,Bachelor's degree,public relation,"
+Media relations and communication Crisis management and reputation repair Event planning and coordination",media ,Full-time," Marseille, France",45000, Tencent Holdings Limited
+969672,Kaelin,38,Male,Bachelor's degree,Philosophy,Epistemology and metaphysics Ethics and moral philosophy Political and social philosophy,media,Full-time," Lyon, France",80000, Alibaba Group Holding Limited
+985620,Eames,19,Female,Master's degree,Aerospace Engineering,Aerodynamics and fluid mechanics Materials science and engineering Control systems and instrumentation,fintech,Contract," Munich, Germany",45000," Baidu, Inc"
+463421,Mayah,60,Male,Bachelor's degree,Communication Studies,Interpersonal communication and relationships Mass media and communication technology Organizational communication and management,media,Full-time," Hamburg, Germany",55000," JDcom, Inc"
+957908,Kaison,36,Female,Master's degree,English Literature,Literary analysis and interpretation Creative writing and composition Rhetoric and composition theory,education,Contract," Cologne, Germany",35000," Expedia Group, Inc"
+996447,Arriana,46,Male,Associate's degree,Computer Science,"Java, Python, Data Structures",media,Part-time," Frankfurt, Germany",75000," Uber Technologies, Inc"
+814482,Renley,31,Male,Bachelor's Degree ,Business,"Finance, Accounting, Microsoft Excel",media,Full-time," Dresden, Germany",45000," Airbnb, Inc"
+967896,Jovanny,39,Female,Master's Degree ,N/A,"Sales, Customer Service, Communication",media,Freelance," Salzburg, Austria",40000, Booking Holdings Inc
+981789,Kymani,37,Male,Bachelor's Degree ,Nursing,"Patient Care, Medical Terminology",education,Full-time," Krakow, Poland",35000," Tripadvisor, Inc"
+987625,Galilea,24,Female,Master's Degree ,Marketing,"Digital Marketing, Social Media",media ,Full-time," Gdansk, Poland",30000, The Priceline Group Inc
+964800,Kaizley,20,Male,Bachelor's Degree ,Public Health,"Epidemiology, Biostatistics, Data Analysis",media,Internship," Valencia, Spain",65000, Agoda Company Pte Ltd
+985535,Erian,35,Female,Bachelor's Degree ,Mechanical Eng.,"AutoCAD, MATLAB, Robotics",media,Freelance," Malaga, Spain",85000," Rakuten, Inc"
+993819,Kenzo,22,Male,Master's Degree ,Computer Science,"C++, Java, Web Development",Manufacturing,Full-time," Porto, Portugal",30000, Yahoo! Japan Corporation
+985874,Rhyder,22,Female,Bachelor's degree,Architecture,"AutoCAD, SketchUp, Adobe Photoshop",media,Full-time," Krakow, Poland",45000," Rakuten Mobile, Inc"
+989238,Kymora,33,Male,Master's Degree ,Culinary Arts,"Cooking, Food Safety, Kitchen Management",education,Contract," Saint Petersburg, Russia",70000, AT&T Inc
+994226,Saria,32,Female,master's degree,Accounting,"Tax Preparation, Financial Reporting, Excel",Industry Interest,Full-time," Geneva, Switzerland",75000, Verizon Communications Inc
+992188,Kiah,21,Male,Master's Degree ,IT,"Network Security, Troubleshooting, Linux",Technology,Full-time, Monaco,80000, Comcast Corporation
+983188,Taylin,34,Female,master's degree,Marketing,"Market Research, Strategic Planning",Finance,Contract," New York City, USA",40000," Charter Communications, Inc"
+975846,Viraaj,27,Male,Master's Degree ,Environmental Sc.,"GIS, Environmental Sampling, Data Analysis",Retail,Full-time," Los Angeles, USA",60000, Vodafone Group plc
+387673,Kanyon,25,Female,"master""s degree",Computer Science,"Java, Python, Data Structures",Healthcare,Full-time," Chicago, USA",20000, Orange SA
+970074,Jenesis,32,Male,Bachelor's degree,Business,"Finance, Accounting, Microsoft Excel",Marketing,Full-time," Toronto, Canada",50000, Deutsche Telekom AG
+988169,Kysen,34,Female,Master's degree,N/A,"Sales, Customer Service, Communication",Healthcare,Contract," Montreal, Canada",90000, Telefonica SA
+977752,Elikai,28,Male," bachelor""s degree",Nursing,"Patient Care, Medical Terminology",Engineering,Part-time," Vancouver, Canada",90000, SoftBank Group Corp
+980442,Aviva,49,Female,Associate's degree,Marketing,"Digital Marketing, Social Media",Technology,Full-time," Mexico City, Mexico",120000, Xiaomi Corporation
+920613,Kordell,25,Female,Bachelor's degree,Engineering,"MATLAB, SolidWorks, CAD",Architecture,Freelance," Miami, USA",110000, Lenovo Group Limited
+981311,Zariyah,39,Female,Master's degree,Psychology,"Counseling, Psychotherapy",Hospitality,Full-time," San Francisco, USA",100000, Dell Technologies Inc
+962315,Kaelani,23,Female,Bachelor's degree,N/A,"Hospitality, Cooking, Time Management",Finance,Full-time," Washington DC, USA",130000, HP Inc
+976905,Ema,21,Male,Master's degree,Graphic Design,"Adobe Photoshop, Illustrator",Technology,Internship," Boston, USA",150000, Canon Inc
+992838,Jazaria,26,Female,Bachelor's degree,Education,"Curriculum Design, Teaching",Marketing,Freelance," Seattle, USA",65000, Fujitsu Limited
+963311,Nalanee,29,Male,Associate's degree,Marketing,"Marketing Analytics, Market Research, Advertising",Environmental Sc.,Part-time," Austin, USA",85000, NEC Corporation
+989326,Kyndle,18,Female,Bachelor's degree,Mechanical Engineering,"CAD, FEA, Design for Manufacturing",Technology,Full-time," Houston, USA",30000," Ricoh Company, Ltd"
+988162,Andon,15,Male,Associate's degree,Psychology,"Counseling, Research Methods, Communication",Finance,Full-time," Dallas, USA",45000, Sony Corporation
+979220,Karishma,44,Female,Master's degree,Finance,"Financial Analysis, Investment Management",Retail,Contract," San Diego, USA",70000," Konica Minolta, Inc"
+977237,Demi,32,Male,Bachelor's degree,Journalism,"Writing, Editing, Social Media Management",Healthcare,Full-time," Phoenix, USA",75000, Xerox Holdings Corporation
+968825,Kien,21,Female,Bachelor's degree,Civil Engineering,"AutoCAD, Construction Management, Project Planning",Marketing,Full-time," Atlanta, USA",80000,apple
+960089,Emmalynn,33,Male,Master's degree,Biology,"Lab Techniques, Research Methodology, Data Analysis",Engineering,Contract," Denver, USA",40000,samsung
+900917,davide baye,24,Female," bachelor""s degree",Economics,"Econometrics, Microeconomics, Statistical Analysis",Healthcare,Part-time," Nashville, USA",60000,google
+969314,emilia duan,29,Female,Associate's degree,Education,"Curriculum Design, Teaching, Classroom Management",Hospitality,Full-time," Portland, USA",20000,merck & co
+980355,ceaig mark,27,Female,Bachelor's degree,Public Health,"Epidemiology, Biostatistics, Health Policy",Creative,Freelance," Calgary, Canada",65000,ABB
+959737,souzey oley,20,Female,Bachelor's degree,Graphic Design,"Adobe Creative Suite, Illustration, Typography",Education,Full-time," Ottawa, Canada",50000,johnson &johnson
+960470,adi ali,25,Male,Master's degree,Environmental Science,"GIS, Fieldwork, Environmental Policy",Marketing,Contract," Quebec City, Canada",90000,bechtel construction
+959273,sams sus,35,Female," bachelor""s degree",International Business,"Cross-cultural Communication, Global Marketing",Manufacturing,Part-time," Guadalajara, Mexico",100000,Microsoft
+984399,crish guan,36,Male,Bachelor's degree,Computer Science,"Java, Python, Data Structures",Healthcare,Freelance," Cancun, Mexico",65000,bechtel construction
+987419,cole duke,38,Female,Master's degree,Business,"Finance, Accounting, Microsoft Excel",Finance,Full-time," Tijuana, Mexico",85000,merck & co
+979178,russi ma,36,Male,Master's degree,health,"medicals, Customer Service, Communication",Media,Full-time," Edmonton, Canada",30000,apple
+991978,schols phil,38,Female,Bachelor's degree,Nursing,"Patient Care, Medical Terminology",Construction,Contract," Winnipeg, Canada",45000,samsung
+958685,oley austin,21,Male,Bachelor's degree,Marketing,"Digital Marketing, Social Media",Science,Part-time," Anchorage, USA",70000,google
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+981014,,,,,,,,,,,
